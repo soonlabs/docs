@@ -1,0 +1,3 @@
+# Service Protocols Summary
+
+The Soonaverse leverages two service modules to interweave and build on core module functionality to enable the connective structures that DAOs require to build, innovate, interoperate, and scale. These service modules act as conduits for external funding, intra community engagement and activity, plus the added feature of cross DAO collaboration through a novel approach for interoperable reputation. DAOs can now interoperate one-to-one or one-to-many (a federation of DAOs) to realize reputation standards and practices around badge issuance, badge categories, and XP marketplaces to add “color” to an anonymous Digital Identity (DID).
