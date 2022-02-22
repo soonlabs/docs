@@ -1,23 +1,26 @@
-# The SoonLabs Manifesto
+# What is the Soonaverse?
 
-SoonLabs is a collaboration between dedicated professionals, skilled in navigating the constant tension between invention and production to find ways to create, build, and get things done. We have different backgrounds, skills, and experiences, but share a singular goal, a shared vision, a common mantra - together we can build the impossible.
+## Overview
 
-Our current “impossible” is building a more equitable world through decentralization. A world where centralized systems have NOT concentrated society’s influence, power and wealth into the hands of an infinitesimally small number of individuals and organizations.
+The Soonaverse is a decentralized platform for communities, enabling the seamless creation, management, and interoperability of DAOs.
 
-Decentralization will enable us to avoid cronyism and chaos. Where we are what we’ve done, and how we’re SEEN is based on merit not image, value not celebrity.
+DAO-on-Demand (DoD) enables the “one-click” setup of DAOs and provides components that simplify complex DAO operations through an integrated set of feeless core modules. This includes the Secure Feeless Voting module, the first feeless, on-chain voting system in the industry. The Soonaverse also includes 2 innovative and feature-enhancing service modules; the Token LaunchPad and the Reputation Station.
 
-Like the DAOs we create, we believe that contributions should be judged without bias, blind to color, class, and creed, where every vote counts, where “we” is stronger than “me”, and organizations are equal and flat because that’s the way they should be.
+![](https://lh3.googleusercontent.com/r2ITLcwxcAw2mE3bHnoTSwfYvCKw\_He6v4OhcwumQ4T3mz9h1XBJ0BAhxUQSk85pXq1R9Elq3bxR70VDy95JDu35l1RRVUTitIX9ND5LggF9w70Ox13uIc0Re2dKAETpjSOXSDIt)
 
-We believe that privacy isn’t just a cloak, it's a shield, and an anonymous voice is still a voice. DAOs must have trust, they must have reputation for members to create meaningful connections, so when people gather they become makers not mobs.
+The following diagram depicts the DoD’s 4 feeless core modules and the 2 service modules that comprise the entire Soonaverse platform:
 
-Your voice matters and NO ONE should demand a fee for expressing your opinion, no one should force you to pay to exercise your right to vote, decentralization must be an enabler not a wall.
+These DoD core modules include:
 
-Our DAOs will bring the change the world needs, by spreading the power of every decision across 7.7 billion points of humanity, where everyone's an influencer, because everyone has influence.
+* **Discussion Forum** - Communication platform integration support for DAO founders.
+* **Secure Feeless Voting** - Voting without the onerous fee structures imposed by other solutions.
+* **DAO Token Deployment** - Streamlined minting of DAO tokens for DAO’s of all sizes and complexities.
+* **Treasury Management** - Control and definition of monetary semantics for the DAO with predefined templates that minimize complexity.
 
-Ask WHO we need. We’ll say, YOU.
+The Soonaverse Reputation Station and Token LaunchPad service modules further extend the capabilities of DAOs operating within the platform.
 
-Ask HOW can it be done. We’ll say, TOGETHER.
+The Reputation Station allows achievements and awards to be enshrined in a “Reputation Ledger” driving community engagement internally, but can also be shared between DAOs, improving interoperability across Soonaverse.
 
-Ask WHERE it will happen. We’ll say, RIGHT BEFORE YOU EYES.
+The Token LaunchPad allows DAOs to generate liquidity by minting and exchanging tokens seamlessly via partner integrations.
 
-And then ask us WHEN. No, ask us WEN and we will say SOON, because THAT is always our answer.
+This all-in-one decentralized approach offers an unrivaled level of performance and empowerment, built on the feeless infrastructure of the IOTA network.

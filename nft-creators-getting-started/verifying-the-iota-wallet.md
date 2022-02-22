@@ -1,0 +1,2 @@
+# Verifying the IOTA Wallet
+

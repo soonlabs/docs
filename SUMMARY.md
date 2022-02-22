@@ -1,7 +1,6 @@
 # Table of contents
 
-* [The SoonLabs Manifesto](README.md)
-* [What is the Soonaverse?](what-is-the-soonaverse/README.md)
+* [What is the Soonaverse?](README.md)
   * [Core Modules Summary](what-is-the-soonaverse/core-modules-summary/README.md)
     * [Discussion Forum](what-is-the-soonaverse/core-modules-summary/discussion-forum.md)
     * [Secure Feeless Voting (SFV)](what-is-the-soonaverse/core-modules-summary/secure-feeless-voting-sfv.md)
@@ -12,31 +11,47 @@
     * [Reputation Station](what-is-the-soonaverse/service-protocols-summary/reputation-station.md)
 * [Soonaverse DAO](soonaverse-dao.md)
 
-## The Basics
+## ✏ The Basics
 
-* [Spaces](the-basics/spaces.md)
-* [Members](the-basics/members.md)
-* [Proposals](the-basics/proposals.md)
-* [Awards](the-basics/awards.md)
-* [Badges](the-basics/badges.md)
-* [Reputation](the-basics/reputation.md)
+* [Basic Terminology](the-basics/basic-terminology/README.md)
+  * [Spaces](the-basics/basic-terminology/spaces.md)
+  * [Proposals](the-basics/basic-terminology/proposals.md)
+  * [Awards](the-basics/basic-terminology/awards.md)
+  * [Badges](the-basics/basic-terminology/badges.md)
+  * [Reputation](the-basics/basic-terminology/reputation.md)
+  * [Members](the-basics/basic-terminology/members.md)
 
-## Getting Started
+## 😃 All Users - Getting Started
 
-* [Installing MetaMask](getting-started/installing-metamask/README.md)
-  * [Desktop](getting-started/installing-metamask/desktop.md)
-  * [Mobile](getting-started/installing-metamask/mobile.md)
-* [Setting Up Your Profile](getting-started/setting-up-your-profile.md)
-* [Building a Space](getting-started/building-a-space.md)
-* [Making an Award](getting-started/making-an-award.md)
-* [Creating a Proposal](getting-started/creating-a-proposal.md)
+* [Installing MetaMask](all-users-getting-started/installing-metamask/README.md)
+  * [Desktop](all-users-getting-started/installing-metamask/desktop.md)
+  * [Mobile](all-users-getting-started/installing-metamask/mobile.md)
+* [Setting Up Your Profile](all-users-getting-started/setting-up-your-profile.md)
+* [Verifying your IOTA Wallet](all-users-getting-started/verifying-your-iota-wallet.md)
+* [Participating in an Award](all-users-getting-started/participating-in-an-award.md)
+* [Voting in a Proposal](all-users-getting-started/voting-in-a-proposal.md)
+* [Buying an NFT](all-users-getting-started/buying-an-nft.md)
 
-## Tokenomics
+## 🏛 Space Owners - Getting Started
+
+* [Building a Space](space-owners-getting-started/building-a-space.md)
+* [Making an Award](space-owners-getting-started/making-an-award.md)
+* [Creating a Proposal](space-owners-getting-started/creating-a-proposal.md)
+
+## 🎨 NFT Creators - Getting Started
+
+* [Building a Space](nft-creators-getting-started/building-a-space.md)
+* [Verifying the IOTA Wallet](nft-creators-getting-started/verifying-the-iota-wallet.md)
+* [Creating an NFT Collection](nft-creators-getting-started/creating-an-nft-collection.md)
+
+## 🪙 Tokenomics
 
 * [Token Distribution](tokenomics/token-distribution.md)
 * [Token Utility](tokenomics/token-utility.md)
 
-## Tips and tricks
+## 📋 Tips and tricks
 
 * [Frequently Asked Questions](tips-and-tricks/frequently-asked-questions.md)
+* [Twitter](tips-and-tricks/twitter.md)
 * [Discord](tips-and-tricks/discord.md)
+* [Medium](tips-and-tricks/medium.md)
