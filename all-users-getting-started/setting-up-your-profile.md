@@ -14,11 +14,11 @@
 
 4\. Change your Display Name to one you think is awesome and add a brief description about yourself
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 5\. Here's the fun part! Click the "Mint Avatar" button to mint your free avatar that will act as your profile picture. In the future we'll enable new super rare premium avatar species and avatar collectibles/accessories that can all be traded. And underneath the Networking section, you can link your GitHub, Twitter, and Discord accounts.
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 ****
 
