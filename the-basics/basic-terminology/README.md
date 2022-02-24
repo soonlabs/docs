@@ -1,3 +1,12 @@
 # Basic Terminology
 
-Herp an derp here's some words that I'm typing, but soon it's be a description outlining that platform has a lot of unique features and terms and this page will define all of these terms for users.
+The Soonaverse is a brand new concept, and with innovation comes new terms and definitions. The following sections will define some basic terminology that we use throughout the platform.
+
+These terms include:
+
+* Members
+* Spaces
+* Proposals
+* Awards
+* Badges
+* Reputation

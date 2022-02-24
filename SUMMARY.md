@@ -14,12 +14,13 @@
 ## ✏ The Basics
 
 * [Basic Terminology](the-basics/basic-terminology/README.md)
+  * [Members](the-basics/basic-terminology/members.md)
   * [Spaces](the-basics/basic-terminology/spaces.md)
   * [Proposals](the-basics/basic-terminology/proposals.md)
   * [Awards](the-basics/basic-terminology/awards.md)
   * [Badges](the-basics/basic-terminology/badges.md)
   * [Reputation](the-basics/basic-terminology/reputation.md)
-  * [Members](the-basics/basic-terminology/members.md)
+  * [Experience Tokens (XP)](the-basics/basic-terminology/experience-tokens-xp.md)
 
 ## 😃 All Users - Getting Started
 
@@ -42,7 +43,10 @@
 
 * [Building a Space](nft-creators-getting-started/building-a-space.md)
 * [Verifying the IOTA Wallet](nft-creators-getting-started/verifying-the-iota-wallet.md)
-* [Creating an NFT Collection](nft-creators-getting-started/creating-an-nft-collection.md)
+* [Creating an NFT Collection](nft-creators-getting-started/creating-an-nft-collection/README.md)
+  * [Classic](nft-creators-getting-started/creating-an-nft-collection/classic.md)
+  * [Generated](nft-creators-getting-started/creating-an-nft-collection/generated.md)
+  * [SFT](nft-creators-getting-started/creating-an-nft-collection/sft.md)
 
 ## 🪙 Tokenomics
 
@@ -56,3 +60,4 @@
   * [Twitter](tips-and-tricks/social-media/twitter.md)
   * [Discord](tips-and-tricks/social-media/discord.md)
   * [Medium](tips-and-tricks/social-media/medium.md)
+  * [YouTube](tips-and-tricks/social-media/youtube.md)
