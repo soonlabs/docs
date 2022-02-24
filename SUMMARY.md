@@ -56,8 +56,9 @@
 ## 📋 Tips and tricks
 
 * [Frequently Asked Questions](tips-and-tricks/frequently-asked-questions.md)
-* [Social Media](tips-and-tricks/social-media/README.md)
-  * [Twitter](tips-and-tricks/social-media/twitter.md)
-  * [Discord](tips-and-tricks/social-media/discord.md)
-  * [Medium](tips-and-tricks/social-media/medium.md)
-  * [YouTube](tips-and-tricks/social-media/youtube.md)
+* [Social Media / Comms](tips-and-tricks/social-media-comms/README.md)
+  * [Twitter](tips-and-tricks/social-media-comms/twitter.md)
+  * [Discord](tips-and-tricks/social-media-comms/discord.md)
+  * [Medium](tips-and-tricks/social-media-comms/medium.md)
+  * [YouTube](tips-and-tricks/social-media-comms/youtube.md)
+  * [GitHub](tips-and-tricks/social-media-comms/github.md)
