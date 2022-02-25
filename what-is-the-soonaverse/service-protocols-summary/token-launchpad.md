@@ -1,3 +1,7 @@
+---
+description: NOT IMPLEMENTED YET (use future tense in wording)
+---
+
 # Token LaunchPad
 
 The Token LaunchPad uses ISCP to distribute new tokens and raise liquidity for DAOs. It enables DAO’s to quickly enter production and initiate token launches without start-up capital. This ability to discover and fund the latest upcoming cryptocurrency projects by buying their tokens at a special pre-sales price before it enters the market is a key attribute of the Token LaunchPad. After the pre-sale, pre-allocated tokens will integrate with a network of trusted DEX partners to enable investors and traders to freely trade immediately after the fundraising round.

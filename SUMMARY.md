@@ -3,7 +3,7 @@
 * [What is the Soonaverse?](README.md)
   * [Core Modules Summary](what-is-the-soonaverse/core-modules-summary/README.md)
     * [Discussion Forum](what-is-the-soonaverse/core-modules-summary/discussion-forum.md)
-    * [Secure Feeless Voting (SFV)](what-is-the-soonaverse/core-modules-summary/secure-feeless-voting-sfv.md)
+    * [Feeless On-Chain Voting](what-is-the-soonaverse/core-modules-summary/feeless-on-chain-voting.md)
     * [DAO Token Deployment](what-is-the-soonaverse/core-modules-summary/dao-token-deployment.md)
     * [Treasury Management](what-is-the-soonaverse/core-modules-summary/treasury-management.md)
   * [Service Protocols Summary](what-is-the-soonaverse/service-protocols-summary/README.md)
