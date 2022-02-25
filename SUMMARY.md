@@ -3,7 +3,7 @@
 * [What is the Soonaverse?](README.md)
   * [Core Modules Summary](what-is-the-soonaverse/core-modules-summary/README.md)
     * [Discussion Forum](what-is-the-soonaverse/core-modules-summary/discussion-forum.md)
-    * [Feeless On-Chain Voting](what-is-the-soonaverse/core-modules-summary/feeless-on-chain-voting.md)
+    * [Feeless On-Chain Voting](what-is-the-soonaverse/core-modules-summary/secure-feeless-voting-sfv.md)
     * [DAO Token Deployment](what-is-the-soonaverse/core-modules-summary/dao-token-deployment.md)
     * [Treasury Management](what-is-the-soonaverse/core-modules-summary/treasury-management.md)
   * [Service Protocols Summary](what-is-the-soonaverse/service-protocols-summary/README.md)
@@ -25,7 +25,8 @@
 ## 😃 All Users - Getting Started
 
 * [Installing MetaMask](all-users-getting-started/installing-metamask/README.md)
-  * [Desktop](all-users-getting-started/installing-metamask/desktop.md)
+  * [Desktop](all-users-getting-started/installing-metamask/desktop/README.md)
+    * [Adding the IOTA EVM RPC](all-users-getting-started/installing-metamask/desktop/adding-the-iota-evm-rpc.md)
   * [Mobile](all-users-getting-started/installing-metamask/mobile.md)
 * [Setting Up Your Profile](all-users-getting-started/setting-up-your-profile.md)
 * [Verifying your IOTA Wallet](all-users-getting-started/verifying-your-iota-wallet.md)
