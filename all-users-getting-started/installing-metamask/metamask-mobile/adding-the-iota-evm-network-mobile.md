@@ -6,11 +6,11 @@ _Your MetaMask will default to the "Ethereum Main Network" network, so we need t
 
 Click the hamburger icon in the upper left of the screen:
 
-![](<../../../.gitbook/assets/image (22).png>)
+![](<../../../.gitbook/assets/image (26).png>)
 
 Click on "Settings":
 
-![](<../../../.gitbook/assets/image (8).png>)
+![](<../../../.gitbook/assets/image (10).png>)
 
 Click on "Networks":
 
@@ -18,7 +18,7 @@ Click on "Networks":
 
 Click the "Add Network" button:
 
-![](<../../../.gitbook/assets/image (12).png>)
+![](<../../../.gitbook/assets/image (23).png>)
 
 
 
@@ -42,4 +42,4 @@ After you've filled in all the prompts, click "Add":
 
 And just like that you've added the IOTA EVM Testnet network to your MetaMask! (Check out how it now says "IOTA EVM Testnet" at the top):
 
-![](<../../../.gitbook/assets/image (4).png>)
+![](<../../../.gitbook/assets/image (5).png>)

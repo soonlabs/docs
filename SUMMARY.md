@@ -27,7 +27,7 @@
 * [Installing MetaMask](all-users-getting-started/installing-metamask/README.md)
   * [MetaMask - Desktop](all-users-getting-started/installing-metamask/metamask-desktop/README.md)
     * [Adding the IOTA EVM Network - Desktop](all-users-getting-started/installing-metamask/metamask-desktop/adding-the-iota-evm-network-desktop.md)
-  * [MetaMask - Mobile](all-users-getting-started/installing-metamask/metamask-mobile/README.md)
+  * [MetaMask - Mobile](all-users-getting-started/installing-metamask/metamask-mobile.md)
     * [Adding the IOTA EVM Network - Mobile](all-users-getting-started/installing-metamask/metamask-mobile/adding-the-iota-evm-network-mobile.md)
 * [Setting Up Your Profile](all-users-getting-started/setting-up-your-profile/README.md)
   * [Profile - Desktop](all-users-getting-started/setting-up-your-profile/profile-desktop.md)

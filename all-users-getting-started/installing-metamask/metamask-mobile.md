@@ -4,15 +4,15 @@ For this tutorial I will be using an Android phone, but the steps should be very
 
 Find the MetaMask app and click "Install":
 
-![](<../../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 Once it's installed, open the MetaMask app:
 
-![](<../../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (17).png>)
 
 Click the "Get started" button:
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
 From here you should have at least two options:
 
@@ -46,9 +46,9 @@ If you haven't created your MetaMask wallet yet, then you'll need to start from 
 
 You'll notice that after you click the "Done" button, it takes you to your wallet screen and at the top it says "Ethereum Main Network":
 
-![](<../../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (15).png>)
 
 __
 
-_Our next step is to change to "Ethereum Main Network" over to the IOTA EVM Testnet! Click the right button at the bottom of this page to go over to_ [_the tutorial that will show you how to add the IOTA EVM Testnet in MetaMask._](adding-the-iota-evm-network-mobile.md)__
+_Our next step is to change to "Ethereum Main Network" over to the IOTA EVM Testnet! Click the right button at the bottom of this page to go over to_ [_the tutorial that will show you how to add the IOTA EVM Testnet in MetaMask._](metamask-mobile/adding-the-iota-evm-network-mobile.md)__
 

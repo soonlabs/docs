@@ -6,7 +6,7 @@ _Your MetaMask will default to the "Ethereum Mainnet" network, so we need to get
 
 Click the dropdown button next to "Ethereum Mainnet" and click "Add Network":
 
-![](<../../../.gitbook/assets/image (16).png>)
+![](<../../../.gitbook/assets/image (16) (1).png>)
 
 Fill out all of the prompts using the following values...
 
@@ -22,7 +22,7 @@ _**Block Explorer URL: https://explorer.wasp.sc.iota.org**_
 
 After you've filled in all the prompts, click "Save":
 
-![](<../../../.gitbook/assets/image (24).png>)
+![](<../../../.gitbook/assets/image (24) (1).png>)
 
 And just like that you've added the IOTA EVM Testnet network to your MetaMask!
 

@@ -1,30 +1,78 @@
 # Profile - Mobile
 
-1. Connect your MetaMask account
+While in the MetaMask app, click the hamburger icon in the upper left hand corner:
 
-![](<../../.gitbook/assets/image (5) (1) (1).png>)
+![](<../../.gitbook/assets/image (25).png>)
 
-2\. Click your address in the upper right hand corner of the window and choose "My Profile"
+Choose "Browser":
 
-![](<../../.gitbook/assets/image (2) (1) (1).png>)
+![](<../../.gitbook/assets/image (18).png>)
 
-3\. Click the pencil icon next to your @ handle
+In the "Search or Type URL" prompt, type in "soonaverse.com":
 
-![](<../../.gitbook/assets/image (4) (1) (1).png>)
+![](<../../.gitbook/assets/image (28).png>)
 
-4\. Change your Display Name to one you think is awesome and add a brief description about yourself
+Once on the Soonaverse home page, you'll want to click the hamburger icon in the upper right hand corner:
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (12).png>)
 
-5\. Here's the fun part! Click the "Mint Avatar" button to mint your free avatar that will act as your profile picture. In the future we'll enable new super rare premium avatar species and avatar collectibles/accessories that can all be traded. And underneath the Networking section, you can link your GitHub, Twitter, and Discord accounts.
+Click the "Connect Metamask" button:
 
-![](<../../.gitbook/assets/image (3) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (14).png>)
 
-****
+Click the "Connect" button:
+
+![](<../../.gitbook/assets/image (9).png>)
+
+Click the "Sign" button:
+
+![](<../../.gitbook/assets/image (22).png>)
+
+
+
+_**You now officially have an account on the Soonaverse! Now it's time to make it a little more personalized...**_
+
+
+
+Click the hamburger icon in the upper right hand corner:
+
+![](<../../.gitbook/assets/image (13).png>)
+
+Choose "My Profile":
+
+![](<../../.gitbook/assets/image (16).png>)
+
+Click the "Profile Info" tab that hanging out there on the right:
+
+![](<../../.gitbook/assets/image (24).png>)
+
+Click the pencil icon next to your MetaMask address:
+
+![](<../../.gitbook/assets/image (20).png>)
+
+Choose a cool display name, write a brief description about yourself, and then scroll down and click the "Mint Avatar" button (you can even link your Github, Twitter, and Discord accounts).
+
+After you've done all that, make sure to click the "Save changes" button:
+
+![](<../../.gitbook/assets/image (21).png>)
+
+![](<../../.gitbook/assets/image (19).png>)
+
+Click the "Sign" button:
+
+![](<../../.gitbook/assets/image (8).png>)
+
+
 
 **And just like that your a member of the Soonaverse with a complete profile!**
 
 ****
 
-_What comes next? Well you'll probably want to verify your IOTA wallet if you're looking to buy and trade some NFTs..._
+![](<../../.gitbook/assets/image (27).png>)
+
+****
+
+****
+
+_What comes next? Well you'll probably want to verify your IOTA wallet if you're looking to trade some NFTs..._
 
