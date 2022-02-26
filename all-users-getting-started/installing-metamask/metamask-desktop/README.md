@@ -1,6 +1,6 @@
 # MetaMask - Desktop
 
-Go to [https://metamask.io/download/](https://metamask.io/download/) and install MetaMask on the browser of your choice. For this tutorial, we will be using Firefox (all installations are very similar, but not exact):
+Go to [https://metamask.io/download/](https://metamask.io/download/) and install MetaMask on the browser of your choice. For this tutorial, we will be using Firefox (all installations are very similar):
 
 ![](<../../../.gitbook/assets/image (12) (1).png>)
 
