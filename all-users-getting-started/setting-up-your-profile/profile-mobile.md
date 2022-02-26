@@ -1,5 +1,9 @@
 # Profile - Mobile
 
+Having a cool customized profile is a big part of the fun in the Soonaverse! Let's walk through the steps that will take you from just having a regular MetaMask account to having a full blown Soonaverse member profile!
+
+
+
 While in the MetaMask app, click the hamburger icon in the upper left hand corner:
 
 ![](<../../.gitbook/assets/image (25).png>)
