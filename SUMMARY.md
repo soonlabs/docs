@@ -25,8 +25,8 @@
 ## 😃 All Users - Getting Started
 
 * [Installing MetaMask](all-users-getting-started/installing-metamask/README.md)
-  * [Desktop](all-users-getting-started/installing-metamask/desktop/README.md)
-    * [Adding the IOTA EVM RPC](all-users-getting-started/installing-metamask/desktop/adding-the-iota-evm-rpc.md)
+  * [Desktop](all-users-getting-started/installing-metamask/desktop.md)
+    * [Adding the IOTA EVM Network](all-users-getting-started/installing-metamask/desktop/adding-the-iota-evm-network.md)
   * [Mobile](all-users-getting-started/installing-metamask/mobile.md)
 * [Setting Up Your Profile](all-users-getting-started/setting-up-your-profile.md)
 * [Verifying your IOTA Wallet](all-users-getting-started/verifying-your-iota-wallet.md)

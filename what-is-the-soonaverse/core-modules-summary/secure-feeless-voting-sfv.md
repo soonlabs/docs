@@ -10,5 +10,5 @@ Scree4nshots of our voting screens and screnshots of how we do the voting. Feele
 
 
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (15).png>)
 

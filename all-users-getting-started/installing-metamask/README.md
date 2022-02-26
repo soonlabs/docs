@@ -1,6 +1,6 @@
 # Installing MetaMask
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (17).png>)
 
 MetaMask provides an easy and secure way to connect to blockchain-based applications. It generates passwords and keys on your device, so only you have access to your accounts and data.
 
