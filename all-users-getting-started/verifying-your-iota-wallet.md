@@ -20,7 +20,7 @@ Here's a brief walkthrough video:
 
 2\. A verification address and amount will be created.
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 3\. Simply send the small amount of IOTA to that address and you’re done!
 
