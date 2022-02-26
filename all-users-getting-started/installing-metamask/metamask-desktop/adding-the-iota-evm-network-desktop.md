@@ -1,4 +1,4 @@
-# Adding the IOTA EVM Network
+# Adding the IOTA EVM Network - Desktop
 
 _Your MetaMask will default to the "Ethereum Mainnet" network, so we need to get that changed. To do this, you'll need to follow these steps:_
 
@@ -26,5 +26,5 @@ After you've filled in all the prompts, click "Save":
 
 And just like that you've added the IOTA EVM Testnet network to your MetaMask!
 
-![](<../../../.gitbook/assets/image (7).png>)
+![](<../../../.gitbook/assets/image (7) (1).png>)
 

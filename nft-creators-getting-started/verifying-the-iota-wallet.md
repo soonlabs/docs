@@ -14,9 +14,9 @@ Here's a brief walkthrough video:
 
 1. Click to start the Wallet verification and sign it with your MetaMask account
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1).png>)
 
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1).png>)
 
 2\. A verification address and amount will be created.
 
