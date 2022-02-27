@@ -30,5 +30,5 @@ Here's the fun part! Click the "Mint Avatar" button to mint your free avatar tha
 
 ****
 
-_What comes next? Well you'll probably want to verify your IOTA wallet if you're looking to trade some NFTs..._
+_What comes next? Well you'll probably want to_ [_verify your IOTA wallet_](../verifying-your-iota-wallet.md) _if you're looking to trade some NFTs..._
 
