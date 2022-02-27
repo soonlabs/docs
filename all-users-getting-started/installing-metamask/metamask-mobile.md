@@ -46,7 +46,7 @@ If you haven't created your MetaMask wallet yet, then you'll need to start from 
 
 You'll notice that after you click the "Done" button, it takes you to your wallet screen and at the top it says "Ethereum Main Network":
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (15) (1).png>)
 
 __
 

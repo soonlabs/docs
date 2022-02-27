@@ -6,7 +6,7 @@ Having a cool customized profile is a big part of the fun in the Soonaverse! Let
 
 Head on over to [https://soonaverse.com/](https://soonaverse.com) and click the "Connect" button in the upper right hand corner of the page to connect your MetaMask account:
 
-![](<../../.gitbook/assets/image (5) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (1) (1) (1).png>)
 
 After you've connected, click your address in the upper right hand corner of the window and choose "My Profile":
 
