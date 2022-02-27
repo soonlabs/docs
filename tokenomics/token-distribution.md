@@ -14,4 +14,4 @@ The Soonaverse will be launching the SOON token with an initial supply of 100,00
 
 **Launchpad:** We will be utilizing our Token Launchpad to fairly distribute 10M tokens to the public. These will not be subject to lockup.
 
-**Community Adoption Incentives:** A large pool of tokens will be set aside to reward early community members of the protocol.
+**Community Adoption Incentives:** A large pool of tokens will be set aside to reward early community members of the protocol, encourage the use of the platform, and incentivize liquidity of the SOON token.
