@@ -20,7 +20,7 @@ For any additional options feel free to click "Okay" for right now:
 
 Now that you've successfully installed MetaMask as a browser extension, you can begin setting up your private keys! Click the "Get Started" button:
 
-![](<../../../.gitbook/assets/image (6) (1).png>)
+![](<../../../.gitbook/assets/image (6) (1) (1).png>)
 
 You'll be presented with two options:
 
@@ -45,7 +45,7 @@ The security of your MetaMask wallet is so important! Please take a few minutes 
 
 After you're done, you can click the "Next" button:
 
-![](<../../../.gitbook/assets/image (19) (1) (1).png>)
+![](<../../../.gitbook/assets/image (19) (1) (1) (1).png>)
 
 Now that you've learned about the Secret Recovery Phrase, you understand how important it is to keep it a secret. Click in the locked box to reveal your secret words:
 

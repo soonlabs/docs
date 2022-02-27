@@ -14,7 +14,7 @@ Here's a brief walkthrough video (the only difference is that you'll click the "
 
 1. Click to start the Wallet verification and sign it with your MetaMask account
 
-![](<../.gitbook/assets/image (6) (1) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (3) (1) (1).png>)
 

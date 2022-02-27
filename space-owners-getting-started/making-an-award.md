@@ -10,7 +10,7 @@ To make an award for your space, go to the "Awards" tab inside your space:
 
 From there, click the "+ New award" button:
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)
 
 Fill in all the fields, click the "Mint Avatar" button to create your badge, and then click the "Create award" button:
 

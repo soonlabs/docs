@@ -12,7 +12,7 @@ To create the proposal for your space, simply go to the Proposals tab:
 
 And choose "+ New proposal":
 
-![](<../.gitbook/assets/image (13) (1).png>)
+![](<../.gitbook/assets/image (13) (1) (1).png>)
 
 You'll see a lot of prompts that you can fill out. Here's an example of a completed proposal form ready to be created:
 
@@ -35,5 +35,5 @@ Here is where a Guardian can review and then either "Approve" or "Decline" the p
 
 The proposal is approved and now it's just waiting to get started. As you can see, voting will start in 3 minutes:
 
-![](<../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (19) (1).png>)
 

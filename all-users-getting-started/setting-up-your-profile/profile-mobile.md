@@ -40,7 +40,7 @@ _**You now officially have an account on the Soonaverse! Now it's time to make i
 
 Click the hamburger icon in the upper right hand corner:
 
-![](<../../.gitbook/assets/image (13) (1) (1).png>)
+![](<../../.gitbook/assets/image (13) (1) (1) (1).png>)
 
 Choose "My Profile":
 
@@ -60,7 +60,7 @@ After you've done all that, make sure to click the "Save changes" button:
 
 ![](<../../.gitbook/assets/image (21) (1).png>)
 
-![](<../../.gitbook/assets/image (19) (1).png>)
+![](<../../.gitbook/assets/image (19) (1) (1).png>)
 
 Click the "Sign" button:
 
