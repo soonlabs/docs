@@ -64,8 +64,8 @@
 
 ## 💫 Social Media
 
-* [Twitter](social-media/twitter.md)
-* [Discord](social-media/discord.md)
-* [Medium](social-media/medium.md)
-* [YouTube](social-media/youtube.md)
-* [GitHub](social-media/github.md)
+* [Twitter](tips-and-tricks/social-media-comms/twitter.md)
+* [Discord](tips-and-tricks/social-media-comms/discord.md)
+* [Medium](tips-and-tricks/social-media-comms/medium.md)
+* [YouTube](tips-and-tricks/social-media-comms/youtube.md)
+* [GitHub](tips-and-tricks/social-media-comms/github.md)

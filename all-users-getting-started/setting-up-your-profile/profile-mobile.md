@@ -14,7 +14,7 @@ Choose "Browser":
 
 In the "Search or Type URL" prompt, type in "soonaverse.com":
 
-![](<../../.gitbook/assets/image (28) (1).png>)
+![](<../../.gitbook/assets/image (28) (1) (1).png>)
 
 Once on the Soonaverse home page, you'll want to click the hamburger icon in the upper right hand corner:
 
@@ -64,7 +64,7 @@ After you've done all that, make sure to click the "Save changes" button:
 
 Click the "Sign" button:
 
-![](<../../.gitbook/assets/image (8) (1).png>)
+![](<../../.gitbook/assets/image (8) (1) (1).png>)
 
 
 

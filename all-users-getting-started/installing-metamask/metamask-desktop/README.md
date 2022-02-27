@@ -55,7 +55,7 @@ Follow one of the many methods to save your Secret Recovery Phrase. An easy thin
 
 After you have your secret words written down, you can click the "Next" button:
 
-![](<../../../.gitbook/assets/image (8) (1) (1).png>)
+![](<../../../.gitbook/assets/image (8) (1) (1) (1).png>)
 
 You will now be prompted to click each word in order to recreate your Secret Recovery Phase as a security measure to make sure you definitely know it. After you arrange them into the correct order, you can click the "confirm" button because you've confirmed that you've written down your Secret Recovery Phrase somewhere:
 
