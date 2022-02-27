@@ -1,5 +1,9 @@
 # Soonaverse DAO
 
+Currently the Soonaverse is being built by a private company, but our strategy is to reduce the concentration of all parts of the organization until it's a fully Decentralized Autonomous Organization (DAO).&#x20;
+
+As a company and future DAO, here are some things you should know:
+
 ### Founding Principles
 
 1. "All Voting MUST be FREE and Securely ON-Chain"
