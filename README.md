@@ -22,9 +22,9 @@ These DoD core modules include:
 * **Treasury Management** - Control and definition of monetary semantics for the DAO with predefined templates that minimize complexity.
 * **NFT Marketplace** - An engine that allows anybody to feelessly mint, sell, buy, and trade NFTs on the IOTA network.
 
-The Soonaverse Token LaunchPad and Avatar Builder service modules further extend the capabilities of DAOs operating within the platform.
+The Soonaverse Token Launchpad and Avatar Builder service modules further extend the capabilities of DAOs operating within the platform.
 
-The Token LaunchPad allows DAOs to generate initial capital and liquidity by minting and exchanging tokens seamlessly using a mix of in-house solutions and partner integrations.
+The Token Launchpad allows DAOs to generate initial capital and liquidity by minting and exchanging tokens seamlessly using a mix of in-house solutions and partner integrations.
 
 The Avatar Builder adds a gamified experience to the entire platform, turning the normally tedious task of organizing and rewarding people into a more meta adventure: _Trying to level up in your career and the digital world and bringing your Avatar with you everywhere you go!_
 

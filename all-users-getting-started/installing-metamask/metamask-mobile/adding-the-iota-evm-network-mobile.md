@@ -18,7 +18,7 @@ Click on "Networks":
 
 Click the "Add Network" button:
 
-![](<../../../.gitbook/assets/image (23) (1).png>)
+![](<../../../.gitbook/assets/image (23) (1) (1).png>)
 
 
 

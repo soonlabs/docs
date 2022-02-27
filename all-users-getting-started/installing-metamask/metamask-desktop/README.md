@@ -39,7 +39,7 @@ On this next screen you'll want to create and confirm your password. Make sure t
 
 Check the "Terms of Use" box and then click the "Create" button:
 
-![](<../../../.gitbook/assets/image (23) (1) (1).png>)
+![](<../../../.gitbook/assets/image (23) (1) (1) (1).png>)
 
 The security of your MetaMask wallet is so important! Please take a few minutes to watch the video and read about your Secret Recovery Phrase. We can't stress enough how crucial this part is to the crypto ecosystem as a whole.
 

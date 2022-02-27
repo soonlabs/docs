@@ -10,7 +10,7 @@
     * [Treasury Management](what-is-the-soonaverse/core-modules-summary/treasury-management.md)
     * [NFT Marketplace](what-is-the-soonaverse/core-modules-summary/nft-marketplace.md)
   * [Service Protocols Summary](what-is-the-soonaverse/service-protocols-summary/README.md)
-    * [Token LaunchPad](what-is-the-soonaverse/service-protocols-summary/token-launchpad.md)
+    * [Token Launchpad](what-is-the-soonaverse/service-protocols-summary/token-launchpad.md)
     * [Avatar Builder](what-is-the-soonaverse/service-protocols-summary/avatar-builder.md)
 * [Soonaverse DAO](soonaverse-dao.md)
 
