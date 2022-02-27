@@ -10,7 +10,7 @@ You'll be taken to a screen where you can add the extension to your browser (cli
 
 You may get an additional permissions box that pops up, click the "Add" button:
 
-![](<../../../.gitbook/assets/image (20) (1) (1).png>)
+![](<../../../.gitbook/assets/image (20) (1) (1) (1).png>)
 
 You should notice a cool little fox icon in the upper right hand our browser now. That's your MetaMask mascot. He's there to show you that you've successfully installed the MetaMask browser extension.&#x20;
 
@@ -59,7 +59,7 @@ After you have your secret words written down, you can click the "Next" button:
 
 You will now be prompted to click each word in order to recreate your Secret Recovery Phase as a security measure to make sure you definitely know it. After you arrange them into the correct order, you can click the "confirm" button because you've confirmed that you've written down your Secret Recovery Phrase somewhere:
 
-![](<../../../.gitbook/assets/image (22) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (22) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../../../.gitbook/assets/image (14) (1) (1) (1).png>)
 

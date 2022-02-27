@@ -12,7 +12,7 @@ To create the proposal for your space, simply go to the Proposals tab:
 
 And choose "+ New proposal":
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)
 
 You'll see a lot of prompts that you can fill out. Here's an example of a completed proposal form ready to be created:
 

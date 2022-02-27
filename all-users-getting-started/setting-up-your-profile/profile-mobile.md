@@ -6,7 +6,7 @@ Having a cool customized profile is a big part of the fun in the Soonaverse! Let
 
 While in the MetaMask app, click the hamburger icon in the upper left hand corner:
 
-![](<../../.gitbook/assets/image (25) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (25) (1) (1) (1) (1).png>)
 
 Choose "Browser":
 
@@ -14,7 +14,7 @@ Choose "Browser":
 
 In the "Search or Type URL" prompt, type in "soonaverse.com":
 
-![](<../../.gitbook/assets/image (28) (1) (1).png>)
+![](<../../.gitbook/assets/image (28) (1) (1) (1).png>)
 
 Once on the Soonaverse home page, you'll want to click the hamburger icon in the upper right hand corner:
 
@@ -30,7 +30,7 @@ Click the "Connect" button:
 
 Click the "Sign" button:
 
-![](<../../.gitbook/assets/image (22) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (22) (1) (1) (1) (1).png>)
 
 
 
@@ -40,7 +40,7 @@ _**You now officially have an account on the Soonaverse! Now it's time to make i
 
 Click the hamburger icon in the upper right hand corner:
 
-![](<../../.gitbook/assets/image (13) (1).png>)
+![](<../../.gitbook/assets/image (13) (1) (1).png>)
 
 Choose "My Profile":
 
@@ -48,11 +48,11 @@ Choose "My Profile":
 
 Click the "Profile Info" tab that hanging out there on the right:
 
-![](<../../.gitbook/assets/image (24) (1).png>)
+![](<../../.gitbook/assets/image (24) (1) (1).png>)
 
 Click the pencil icon next to your MetaMask address:
 
-![](<../../.gitbook/assets/image (20) (1).png>)
+![](<../../.gitbook/assets/image (20) (1) (1).png>)
 
 Choose a cool display name, write a brief description about yourself, and then scroll down and click the "Mint Avatar" button (you can even link your Github, Twitter, and Discord accounts).
 

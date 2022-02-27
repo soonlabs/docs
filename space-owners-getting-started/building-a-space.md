@@ -22,7 +22,7 @@ After you complete those things you can click "Create space" and BAM! You have y
 
 And here's what it looks like in the wild:
 
-![](<../.gitbook/assets/image (28).png>)
+![](<../.gitbook/assets/image (28) (1).png>)
 
 
 
