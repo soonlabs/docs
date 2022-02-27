@@ -36,15 +36,15 @@
   * [Profile - Desktop](all-users-getting-started/setting-up-your-profile/profile-desktop.md)
   * [Profile - Mobile](all-users-getting-started/setting-up-your-profile/profile-mobile.md)
 * [Verifying your IOTA Wallet](all-users-getting-started/verifying-your-iota-wallet.md)
-* [Participating in an Award](all-users-getting-started/participating-in-an-award.md)
 * [Voting in a Proposal](all-users-getting-started/voting-in-a-proposal.md)
+* [Participating in an Award](all-users-getting-started/participating-in-an-award.md)
 * [Buying an NFT](all-users-getting-started/buying-an-nft.md)
 
 ## 🏛 Space Owners - Getting Started
 
 * [Building a Space](space-owners-getting-started/building-a-space.md)
-* [Making an Award](space-owners-getting-started/making-an-award.md)
 * [Creating a Proposal](space-owners-getting-started/creating-a-proposal.md)
+* [Making an Award](space-owners-getting-started/making-an-award.md)
 
 ## 🎨 NFT Creators - Getting Started
 
@@ -62,12 +62,10 @@
 * [Token Distribution](tokenomics/token-distribution.md)
 * [Token Utility](tokenomics/token-utility.md)
 
-## 📋 Tips and tricks
+## 💫 Social Media
 
-* [Frequently Asked Questions](tips-and-tricks/frequently-asked-questions.md)
-* [Social Media / Comms](tips-and-tricks/social-media-comms/README.md)
-  * [Twitter](tips-and-tricks/social-media-comms/twitter.md)
-  * [Discord](tips-and-tricks/social-media-comms/discord.md)
-  * [Medium](tips-and-tricks/social-media-comms/medium.md)
-  * [YouTube](tips-and-tricks/social-media-comms/youtube.md)
-  * [GitHub](tips-and-tricks/social-media-comms/github.md)
+* [Twitter](social-media/twitter.md)
+* [Discord](social-media/discord.md)
+* [Medium](social-media/medium.md)
+* [YouTube](social-media/youtube.md)
+* [GitHub](social-media/github.md)
