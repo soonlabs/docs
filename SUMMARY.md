@@ -48,6 +48,7 @@
 
 ## 🎨 NFT Creators - Getting Started
 
+* [Installing MetaMask](nft-creators-getting-started/installing-metamask.md)
 * [Building a Space](nft-creators-getting-started/building-a-space.md)
 * [Verifying the IOTA Wallet](nft-creators-getting-started/verifying-the-iota-wallet.md)
 * [Creating an NFT Collection](nft-creators-getting-started/creating-an-nft-collection/README.md)

@@ -8,5 +8,5 @@ The Soonaverse utilizes MetaMask for signing transactions. Instead of creating a
 
 MetaMask is available as a browser extension and as a mobile app. Check out the two tutorials for installing MetaMask on either:
 
-* Desktop
-* Mobile
+* [Desktop](metamask-desktop/)
+* [Mobile](metamask-mobile.md)
