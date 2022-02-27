@@ -1,7 +1,7 @@
 # Reputation
 
-Reputation is what you’ve accomplished in the communities you chose to belong to. Reputation is a foundational component to any system because it gives your behavior, history and allows other users to quickly connect, trust, and interpret your intentions.
+![](<../../.gitbook/assets/image (31).png>)
 
-This reputation is essentially YOU and what you’ve done in any and every DAO, every badge, every award that you’ve ever received, immutable and enshrined in the reputation ledger. Your reputation tells people what you want them to know about you, even if they don’t know who YOU really are.
+Reputation is what you’ve accomplished in the communities (spaces) you’ve chosen to belong to. Reputation is a foundational component of the Soonaverse platform, it provides a history of your behavior, achievements and allows other users to quickly connect, trust, and interpret your intentions.
 
-The Soonaverse allows a member to enshrine their contributions and achievements into this quantifiable “reputation” that can be immutably expressed through badges (the types of tasks completed) and XP (the value of those tasks).
+A Soonaverse reputation is essentially you and what you’ve done in any and every Space/DAO, every badge, every award that you’ve ever received, immutable and enshrined in the reputation ledger. Your reputation tells people what you want them to know about you, even if they don’t know who you really are.

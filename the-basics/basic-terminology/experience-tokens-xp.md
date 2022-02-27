@@ -1,5 +1,7 @@
 # Experience Tokens (XP)
 
+![](<../../.gitbook/assets/image (26).png>)
+
 A unique feature of the platform is that reputation has an actual “value” through XP, and can be converted into DAO tokens and/or used to leverage influence in any DAO on the platform.
 
 How does this happen? Let me explain:

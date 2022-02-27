@@ -45,7 +45,7 @@ The security of your MetaMask wallet is so important! Please take a few minutes 
 
 After you're done, you can click the "Next" button:
 
-![](<../../../.gitbook/assets/image (19) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (19) (1) (1) (1) (1).png>)
 
 Now that you've learned about the Secret Recovery Phrase, you understand how important it is to keep it a secret. Click in the locked box to reveal your secret words:
 

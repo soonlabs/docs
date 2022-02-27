@@ -60,7 +60,7 @@ After you've done all that, make sure to click the "Save changes" button:
 
 ![](<../../.gitbook/assets/image (21) (1).png>)
 
-![](<../../.gitbook/assets/image (19) (1) (1).png>)
+![](<../../.gitbook/assets/image (19) (1) (1) (1).png>)
 
 Click the "Sign" button:
 

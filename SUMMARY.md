@@ -22,8 +22,8 @@
   * [Proposals](the-basics/basic-terminology/proposals.md)
   * [Awards](the-basics/basic-terminology/awards.md)
   * [Badges](the-basics/basic-terminology/badges.md)
-  * [Reputation](the-basics/basic-terminology/reputation.md)
   * [Experience Tokens (XP)](the-basics/basic-terminology/experience-tokens-xp.md)
+  * [Reputation](the-basics/basic-terminology/reputation.md)
 
 ## 😃 All Users - Getting Started
 

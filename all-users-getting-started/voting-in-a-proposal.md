@@ -12,7 +12,7 @@ __
 
 Click anywhere on the active proposal to open it up. Choose which option you want to vote for and click the "Vote Now" button:
 
-![](<../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (19) (1).png>)
 
 After signing the transaction with your MetaMask, you'll see the Current Results get updated:
 
