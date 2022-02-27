@@ -2,13 +2,16 @@
 
 * [What is the Soonaverse?](README.md)
   * [Core Modules Summary](what-is-the-soonaverse/core-modules-summary/README.md)
+    * [Space Creation](what-is-the-soonaverse/core-modules-summary/space-creation.md)
+    * [Reputation Station](what-is-the-soonaverse/core-modules-summary/reputation-station.md)
     * [Discussion Forum](what-is-the-soonaverse/core-modules-summary/discussion-forum.md)
     * [Feeless On-Chain Voting](what-is-the-soonaverse/core-modules-summary/secure-feeless-voting-sfv.md)
     * [DAO Token Deployment](what-is-the-soonaverse/core-modules-summary/dao-token-deployment.md)
     * [Treasury Management](what-is-the-soonaverse/core-modules-summary/treasury-management.md)
+    * [NFT Marketplace](what-is-the-soonaverse/core-modules-summary/nft-marketplace.md)
   * [Service Protocols Summary](what-is-the-soonaverse/service-protocols-summary/README.md)
     * [Token LaunchPad](what-is-the-soonaverse/service-protocols-summary/token-launchpad.md)
-    * [Reputation Station](what-is-the-soonaverse/service-protocols-summary/reputation-station.md)
+    * [Avatar Builder](what-is-the-soonaverse/service-protocols-summary/avatar-builder.md)
 * [Soonaverse DAO](soonaverse-dao.md)
 
 ## ✏ The Basics

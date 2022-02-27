@@ -69,7 +69,7 @@ You will now be prompted to click each word in order to recreate your Secret Rec
 
 Congratulations! You now have a fully functioning MetaMask browser extension! You can click the "All Done" button:
 
-![](<../../../.gitbook/assets/image (18) (1).png>)
+![](<../../../.gitbook/assets/image (18) (1) (1).png>)
 
 Well now... If we look in the upper right hand corner there we can see it says "Ethereum Mainnet"...&#x20;
 

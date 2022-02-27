@@ -10,7 +10,7 @@ While in the MetaMask app, click the hamburger icon in the upper left hand corne
 
 Choose "Browser":
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (18) (1).png>)
 
 In the "Search or Type URL" prompt, type in "soonaverse.com":
 

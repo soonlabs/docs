@@ -6,7 +6,12 @@ The Soonaverse is a platform that allows communities to create and maintain DAOs
 
 The core modules include:
 
+* Space Creation
+* Reputation Station
 * Discussion Forum
-* Secure Feeless Voting (SFV)
+* Feeless On-Chain Voting
 * DAO Token Deployment
 * Treasury Management
+* NFT Marketplace
+
+As you can see, there are a lot of feeless core modules. This is by design. If the Soonaverse is going to succeed then it needs a strong feeless foundation that profitable businesses can be built upon.
