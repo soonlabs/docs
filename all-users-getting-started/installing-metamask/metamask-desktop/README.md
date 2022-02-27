@@ -2,11 +2,11 @@
 
 Go to [https://metamask.io/download/](https://metamask.io/download/) and install MetaMask on the browser of your choice. For this tutorial, we will be using Firefox (all installations are very similar):
 
-![](<../../../.gitbook/assets/image (12) (1).png>)
+![](<../../../.gitbook/assets/image (12) (1) (1).png>)
 
 You'll be taken to a screen where you can add the extension to your browser (click the "Add to" button):
 
-![](<../../../.gitbook/assets/image (9) (1) (1).png>)
+![](<../../../.gitbook/assets/image (9) (1) (1) (1).png>)
 
 You may get an additional permissions box that pops up, click the "Add" button:
 
@@ -39,7 +39,7 @@ On this next screen you'll want to create and confirm your password. Make sure t
 
 Check the "Terms of Use" box and then click the "Create" button:
 
-![](<../../../.gitbook/assets/image (23) (1).png>)
+![](<../../../.gitbook/assets/image (23) (1) (1).png>)
 
 The security of your MetaMask wallet is so important! Please take a few minutes to watch the video and read about your Secret Recovery Phrase. We can't stress enough how crucial this part is to the crypto ecosystem as a whole.
 
@@ -55,11 +55,11 @@ Follow one of the many methods to save your Secret Recovery Phrase. An easy thin
 
 After you have your secret words written down, you can click the "Next" button:
 
-![](<../../../.gitbook/assets/image (8) (1).png>)
+![](<../../../.gitbook/assets/image (8) (1) (1).png>)
 
 You will now be prompted to click each word in order to recreate your Secret Recovery Phase as a security measure to make sure you definitely know it. After you arrange them into the correct order, you can click the "confirm" button because you've confirmed that you've written down your Secret Recovery Phrase somewhere:
 
-![](<../../../.gitbook/assets/image (22) (1) (1).png>)
+![](<../../../.gitbook/assets/image (22) (1) (1) (1).png>)
 
 ![](<../../../.gitbook/assets/image (14) (1) (1).png>)
 

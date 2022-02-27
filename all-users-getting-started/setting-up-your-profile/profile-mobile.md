@@ -6,7 +6,7 @@ Having a cool customized profile is a big part of the fun in the Soonaverse! Let
 
 While in the MetaMask app, click the hamburger icon in the upper left hand corner:
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (25) (1).png>)
 
 Choose "Browser":
 
@@ -14,11 +14,11 @@ Choose "Browser":
 
 In the "Search or Type URL" prompt, type in "soonaverse.com":
 
-![](<../../.gitbook/assets/image (28).png>)
+![](<../../.gitbook/assets/image (28) (1).png>)
 
 Once on the Soonaverse home page, you'll want to click the hamburger icon in the upper right hand corner:
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
 
 Click the "Connect Metamask" button:
 
@@ -26,11 +26,11 @@ Click the "Connect Metamask" button:
 
 Click the "Connect" button:
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 Click the "Sign" button:
 
-![](<../../.gitbook/assets/image (22).png>)
+![](<../../.gitbook/assets/image (22) (1).png>)
 
 
 
@@ -64,7 +64,7 @@ After you've done all that, make sure to click the "Save changes" button:
 
 Click the "Sign" button:
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 
 
 
@@ -72,7 +72,7 @@ Click the "Sign" button:
 
 ****
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (27) (1).png>)
 
 ****
 
