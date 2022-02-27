@@ -20,7 +20,7 @@ These DoD core modules include:
 * **Feeless On-Chain Voting** - Proposals and voting without the onerous fee structures imposed by other solutions.
 * **DAO Token Deployment** - Streamlined minting of DAO tokens for DAO’s of all sizes and complexities.
 * **Treasury Management** - Control and definition of monetary semantics for the DAO with predefined templates that minimize complexity.
-* **NFT Marketplace** - XXX
+* **NFT Marketplace** - An engine that allows anybody to feelessly mint, sell, buy, and trade NFTs on the IOTA network.
 
 The Soonaverse Token LaunchPad and Avatar Builder service modules further extend the capabilities of DAOs operating within the platform.
 
