@@ -8,7 +8,7 @@ Find the MetaMask app and click "Install":
 
 Once it's installed, open the MetaMask app:
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (17) (1).png>)
 
 Click the "Get started" button:
 

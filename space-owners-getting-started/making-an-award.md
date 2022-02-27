@@ -14,7 +14,7 @@ From there, click the "+ New award" button:
 
 Fill in all the fields, click the "Mint Avatar" button to create your badge, and then click the "Create award" button:
 
-![](<../.gitbook/assets/image (25).png>)
+![](<../.gitbook/assets/image (25) (1).png>)
 
 After that you (or another Guardian) will click the "Approve" button:
 

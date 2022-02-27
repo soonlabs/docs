@@ -4,7 +4,7 @@ We fundamentally believe all DAO voting should be free and securely on-chain. Un
 
 Right now, any space on the Soonaverse can create a Proposal for either their guardian or all members to vote on:
 
-![](<../../.gitbook/assets/image (25) (1) (1).png>)
+![](<../../.gitbook/assets/image (25) (1) (1) (1).png>)
 
 What's more is that the creator of the proposal has more options than just one member = one vote. This is one of the scenarios where the Reputation Ledger comes into play. You have the following voting types on Proposals:
 

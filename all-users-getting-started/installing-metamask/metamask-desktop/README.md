@@ -33,7 +33,7 @@ For our tutorial we're going to "Create a Wallet":
 
 A screen may prompt asking if you'd like to send additional data. We will be choosing "No Thanks" in this tutorial:
 
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1) (1).png>)
 
 On this next screen you'll want to create and confirm your password. Make sure to make it a strong one and follow proper password management so you don't forget it and it's always secure :thumbsup:
 
@@ -49,7 +49,7 @@ After you're done, you can click the "Next" button:
 
 Now that you've learned about the Secret Recovery Phrase, you understand how important it is to keep it a secret. Click in the locked box to reveal your secret words:
 
-![](<../../../.gitbook/assets/image (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1) (1).png>)
 
 Follow one of the many methods to save your Secret Recovery Phrase. An easy thing to do is to get two pieces of paper and write your secret words down (in the correct order) on both pieces of paper.
 
