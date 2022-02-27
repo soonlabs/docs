@@ -42,6 +42,8 @@
 
 ## 🏛 Space Owners - Getting Started
 
+* [Installing MetaMask](space-owners-getting-started/installing-metamask.md)
+* [Setting Up Your Profile](space-owners-getting-started/setting-up-your-profile.md)
 * [Building a Space](space-owners-getting-started/building-a-space.md)
 * [Creating a Proposal](space-owners-getting-started/creating-a-proposal.md)
 * [Making an Award](space-owners-getting-started/making-an-award.md)
