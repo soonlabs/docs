@@ -4,7 +4,7 @@ With the new NFT Marketplace, you will be able to connect an IOTA address to you
 
 
 
-Here's a brief walkthrough video:
+Here's a brief walkthrough video (the only difference is that you'll click the "Verify wallet" button in your space and not in your profile):
 
 {% embed url="https://www.youtube.com/watch?v=I0xsNTcPDPo" %}
 
