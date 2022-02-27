@@ -6,7 +6,7 @@ Having a cool customized profile is a big part of the fun in the Soonaverse! Let
 
 While in the MetaMask app, click the hamburger icon in the upper left hand corner:
 
-![](<../../.gitbook/assets/image (25) (1).png>)
+![](<../../.gitbook/assets/image (25) (1) (1).png>)
 
 Choose "Browser":
 
