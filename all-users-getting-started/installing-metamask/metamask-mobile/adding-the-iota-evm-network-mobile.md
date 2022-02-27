@@ -10,7 +10,7 @@ Click the hamburger icon in the upper left of the screen:
 
 Click on "Settings":
 
-![](<../../../.gitbook/assets/image (10).png>)
+![](<../../../.gitbook/assets/image (10) (1).png>)
 
 Click on "Networks":
 
