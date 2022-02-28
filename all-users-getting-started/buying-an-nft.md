@@ -16,7 +16,7 @@ A pop up will appear and you'll need to check the box to agree to the Terms and 
 
 ![](<../.gitbook/assets/image (18).png>)
 
-You'll sign the MetaMask transaction as you always do and then you'll see a new pop up. This pop will let you how much IOTA you'll need to send and where to send it. For ease of use, you can click the "Copy" button next to the IOTA address:
+You'll sign the MetaMask transaction as you always do and then you'll see a new pop up. This pop up will let you how much IOTA you'll need to send and where to send it. For ease of use, you can click the "Copy" button next to the IOTA address:
 
 ![](<../.gitbook/assets/image (19).png>)
 
