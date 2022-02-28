@@ -10,4 +10,4 @@ Badges are created by individual spaces. They define the tasks and value of the 
 
 Badges are always retained as a record of the tasks accomplished. However, the XP they earned can either be converted back to the DAO token or retained and collected as “reputation” on the platform.
 
-XP can be rewarded only through activities and/or actions, programmed into the smart contract the community decides to use. It cannot be purchased, which makes it a scarce resource that only active and productive members of the DAO can accumulate.
+The only way to be awarded XP is by completing actions and/or activities that are programmed into the smart contract. These specific actions and activities are decided upon by the community involved. It cannot be purchased, which makes it a scarce resource that only active and productive members of the DAO can accumulate.
