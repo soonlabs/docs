@@ -8,7 +8,7 @@ Voting can be configured by the author(s) to limit or control who can participat
 
 To create the proposal for your space, simply go to the Proposals tab:
 
-![](<../.gitbook/assets/image (29) (1).png>)
+![](<../.gitbook/assets/image (29) (1) (1).png>)
 
 And choose "+ New proposal":
 
@@ -35,5 +35,5 @@ Here is where a Guardian can review and then either "Approve" or "Decline" the p
 
 The proposal is approved and now it's just waiting to get started. As you can see, voting will start in 3 minutes:
 
-![](<../.gitbook/assets/image (19) (1) (1).png>)
+![](<../.gitbook/assets/image (19) (1) (1) (1).png>)
 

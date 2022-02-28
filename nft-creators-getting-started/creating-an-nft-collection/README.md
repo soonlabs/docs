@@ -16,11 +16,11 @@ _**SFTs**_ (Semi-Fungible Tokens) are a hybrid between the two approaches above.
 
 NFTs in the Soonaverse are grouped into collections. The collection controls some overall settings, and within that collection, you'll load NFTs:
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (25) (1).png>)
 
 As you can see, there's a section in your space that allows you to see your NFT collections. All you need to do to add a new collection is to click the "+ New Collection" button:
 
-![](<../../.gitbook/assets/image (29).png>)
+![](<../../.gitbook/assets/image (29) (1).png>)
 
 You'll being to fill out some fields:
 

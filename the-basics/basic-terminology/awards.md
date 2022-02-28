@@ -1,6 +1,6 @@
 # Awards
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (19) (1).png>)
 
 An award is simply a combination of Experience Tokens (XP) with a Badge that is tied to the completion of a specific task, bounty, action etc.
 

@@ -45,7 +45,7 @@ The security of your MetaMask wallet is so important! Please take a few minutes 
 
 After you're done, you can click the "Next" button:
 
-![](<../../../.gitbook/assets/image (19) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (19) (1) (1) (1) (1) (1).png>)
 
 Now that you've learned about the Secret Recovery Phrase, you understand how important it is to keep it a secret. Click in the locked box to reveal your secret words:
 
@@ -59,9 +59,9 @@ After you have your secret words written down, you can click the "Next" button:
 
 You will now be prompted to click each word in order to recreate your Secret Recovery Phase as a security measure to make sure you definitely know it. After you arrange them into the correct order, you can click the "confirm" button because you've confirmed that you've written down your Secret Recovery Phrase somewhere:
 
-![](<../../../.gitbook/assets/image (22) (1) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (22) (1) (1) (1) (1) (1) (1) (1).png>)
 
-![](<../../../.gitbook/assets/image (14) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (14) (1) (1) (1) (1).png>)
 
 **Now that you've confirmed your Secret Recovery Phrase, you can store your pieces of paper in two separate, but equally secure locations.**
 
@@ -69,7 +69,7 @@ You will now be prompted to click each word in order to recreate your Secret Rec
 
 Congratulations! You now have a fully functioning MetaMask browser extension! You can click the "All Done" button:
 
-![](<../../../.gitbook/assets/image (18) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (18) (1) (1) (1) (1).png>)
 
 Well now... If we look in the upper right hand corner there we can see it says "Ethereum Mainnet"...&#x20;
 

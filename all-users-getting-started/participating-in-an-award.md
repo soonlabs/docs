@@ -2,7 +2,7 @@
 
 Participating in awards is a cornerstone of being a great community member for spaces on the Soonaverse. Here's a quick tutorial that will teach you how to participate in an award:
 
-First you'll want to find you way to a space you're a part of that has an active award (usually teams will post about these awards on other social media like Discord and Twitter so you don't miss it). Click anywhere on the active award to go into it:
+First, you'll want to find your way to a space you're a part of that has an active award (usually teams will post about these awards on other social media like Discord and Twitter so you don't miss it). Click anywhere on the active award to go into it:
 
 ![](<../.gitbook/assets/image (5).png>)
 

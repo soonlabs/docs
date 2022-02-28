@@ -20,7 +20,7 @@ _**Generated NFTs**_ add a little mystery into the mix. The buyer won’t know w
 
 _**SFTs**_ (Semi-Fungible Tokens) are a hybrid between the two approaches above. The collection creator can create a classic NFT, but they have the option to multiply them. For example, they can upload 10 images, but each image will have a quantity of 100. This is a relatively new term in the space, but a good real world example of this approach would be baseball or football trading cards.
 
-![](<../../.gitbook/assets/image (25) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (25) (1) (1) (1) (1) (1).png>)
 
 By default, **all** initial sales and royalties will go to the space that created the collection, but the creator has the ability to point royalties to another space. This means that an artist can help a space raise funds via an NFT sale and receive a royalty on both the initial sale and all future secondary market sales for their work. This royalty percentage is fully customizable and under the control of the creator. No additional fees from the platform are involved, unlike other platforms like OpenSea which tax both the creator and buyers.
 
@@ -38,9 +38,9 @@ This is where things start to get interesting in the IOTA Community. We now have
 
 From the discover screen you’ll be able to click on any collection that you might be interested in and view specifics. There’s a section for the collection to write about their purpose and what makes their collection unique and special. After a little light reading, you can then click into each individual NFT.
 
-![](<../../.gitbook/assets/image (29) (1) (1).png>)
+![](<../../.gitbook/assets/image (29) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (22) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (22) (1) (1) (1) (1).png>)
 
 When you’re looking at the actual NFT, you’ll be able to see all of the system info (address, IPFS info), properties, and stats that the creator inputted. Additionally, you’ll be able to view a full timeline history with a link to a Tangle Explorer to see all of the transactions related to the NFT on chain.
 
