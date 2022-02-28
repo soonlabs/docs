@@ -12,11 +12,11 @@ Depending on what type of collection it is, you'll either click the "Buy now" bu
 
 ![](<../.gitbook/assets/image (25).png>)
 
-A pop up will appear and you'll need to check the box to agree to the Terms and Conditions, and then click the "Confirm and Lock" button:
+A pop-up will appear and you'll need to check the box to agree to the Terms and Conditions, and then click the "Confirm and Lock" button:
 
 ![](<../.gitbook/assets/image (18).png>)
 
-You'll sign the MetaMask transaction as you always do and then you'll see a new pop up. This pop up will let you know how much IOTA you'll need to send and where to send it. For ease of use, you can click the "Copy" button next to the IOTA address:
+You'll sign the MetaMask transaction as you always do and then you'll see a new pop-up. This pop-up will let you know how much IOTA you'll need to send and where to send it. For ease of use, you can click the "Copy" button next to the IOTA address:
 
 ![](<../.gitbook/assets/image (19).png>)
 
@@ -24,7 +24,7 @@ The clock is ticking now! It'll only save your spot for a few minutes. Open up y
 
 ![](<../.gitbook/assets/image (30).png>)
 
-Paste the IOTA address that you previously copied from the Soonaverse pop up and type in the amount of IOTA it requested. After that, send your transaction:
+Paste the IOTA address that you previously copied from the Soonaverse pop-up and type in the amount of IOTA it requested. After that, send your transaction:
 
 ![](<../.gitbook/assets/image (7).png>)
 
