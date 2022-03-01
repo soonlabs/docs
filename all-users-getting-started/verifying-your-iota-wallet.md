@@ -1,6 +1,6 @@
 # Verifying your IOTA Wallet
 
-With the new NFT Marketplace, you will be able to connect an IOTA address to your Space or Profile to allow you to buy and sell NFT’s.
+With the new NFT Marketplace, you will be able to connect an IOTA address to your Space or Profile to allow you to sell NFT’s.
 
 
 
@@ -30,4 +30,4 @@ Once the verification is done, the amount will be returned to your wallet. Remem
 
 
 
-**That's it! get ready to sell and buy NFT's in the Soonaverse**
+**That's it! Get ready to trade some NFTs in the Soonaverse!**
