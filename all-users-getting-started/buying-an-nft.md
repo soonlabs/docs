@@ -1,5 +1,11 @@
 # Buying an NFT
 
+Here's a brief walkthrough video (buying a Generated NFT):
+
+{% embed url="https://www.youtube.com/watch?v=5TjOkUwwPgQ" %}
+
+
+
 Click on the "Collections" tab while on the Discover Soonaverse page ([https://soonaverse.com/discover/spaces](https://soonaverse.com/discover/spaces)):
 
 ![](<../.gitbook/assets/image (31).png>)
