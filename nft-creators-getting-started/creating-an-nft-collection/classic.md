@@ -4,12 +4,12 @@ Classic NFTs are the most straightforward in that you upload your images, theyâ€
 
 
 
-Here's a brief walkthrough video that shows you how to add a single NFT to a Classic Collection:
+Adding a single NFT to a Classic Collection:
 
 {% embed url="https://www.youtube.com/watch?v=VgLZw48pAaA" %}
 
 
 
-Here's a brief walkthrough video that shows you how to add multiple NFTs to a Classic Collection:
+Adding multiple NFTs to a Classic Collection:
 
 {% embed url="https://www.youtube.com/watch?v=svB25j2mdYo" %}
