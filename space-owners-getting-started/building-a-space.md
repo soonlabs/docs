@@ -13,7 +13,7 @@ As you can see the setup for a space is pretty simple. You just need to do the f
 * Create a name for the space and give it a description (we support markdown, so you can add some cool formatting elements to it)
 * Decide whether your space will be open for anybody to join or if you will be manually approving each new member who tries to join your space
 * Upload an Avatar photo
-* Upload a Banner photo
+* Upload a Banner photo (‪2,350 x 1,080)
 * Fill in the Networking section with any relevant links
 
 After you complete those things you can click "Create space" and BAM! You have yourself a new space!
