@@ -38,7 +38,7 @@ This is where things start to get interesting in the IOTA Community. We now have
 
 From the discover screen you’ll be able to click on any collection that you might be interested in and view specifics. There’s a section for the collection to write about their purpose and what makes their collection unique and special. After a little light reading, you can then click into each individual NFT.
 
-![](<../../.gitbook/assets/image (29) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (29) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (22) (1) (1) (1) (1).png>)
 

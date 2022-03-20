@@ -14,7 +14,7 @@ Click on "Settings":
 
 Click on "Networks":
 
-![](<../../../.gitbook/assets/image (6) (1).png>)
+![](<../../../.gitbook/assets/image (6) (1) (1).png>)
 
 Click the "Add Network" button:
 

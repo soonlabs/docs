@@ -8,7 +8,7 @@ Voting can be configured by the author(s) to limit or control who can participat
 
 To create the proposal for your space, simply go to the Proposals tab:
 
-![](<../.gitbook/assets/image (29) (1) (1).png>)
+![](<../.gitbook/assets/image (29) (1) (1) (1).png>)
 
 And choose "+ New proposal":
 

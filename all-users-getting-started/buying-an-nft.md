@@ -36,7 +36,7 @@ Paste the IOTA address that you previously copied from the Soonaverse pop-up and
 
 In a few moments, you'll start to see the transaction history populate on your Soonaverse screen. After around 10 seconds you'll see that your transaction is complete! Now you can click on the "Show my NFT" button and see the newest edition to your digital artwork collection:
 
-![](<../.gitbook/assets/image (29).png>)
+![](<../.gitbook/assets/image (29) (1).png>)
 
 You'll be able to see all of the details about your new NFT:
 
