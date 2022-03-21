@@ -60,7 +60,6 @@
     * [Adding Multiple NFTs](nft-creators-getting-started/creating-an-nft-collection/classic/adding-multiple-nfts.md)
   * [Generated](nft-creators-getting-started/creating-an-nft-collection/generated.md)
   * [SFT](nft-creators-getting-started/creating-an-nft-collection/sft.md)
-  * [🌟 Pro Tips](nft-creators-getting-started/creating-an-nft-collection/pro-tips.md)
 
 ## 🪙 Tokenomics
 
