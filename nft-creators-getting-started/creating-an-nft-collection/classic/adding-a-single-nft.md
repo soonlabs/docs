@@ -25,7 +25,7 @@ Once you've filled everything out, you can click the "Create NFT" button, sign t
 
 ![](<../../../.gitbook/assets/image (22) (1).png>)
 
-After you've created all your NFTs, all you need to do is click the "Publish Collection" button:
+You can repeat the process above until you've created all your NFTs. After you've created all your NFTs, all you need to do is click the "Publish Collection" button:
 
 ![](<../../../.gitbook/assets/image (27) (1) (1).png>)
 
