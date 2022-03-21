@@ -12,6 +12,6 @@ You can see from the Award Description that if I want this badge and XP, then al
 
 If the award had something to do with development, content creation, etc. then you could give your contact information or a link to your work in this text box. But since this award only needed my opinion, I was able to type everything in the box. After that I clicked the "Submit" button:
 
-![](<../.gitbook/assets/image (20) (1).png>)
+![](<../.gitbook/assets/image (20) (1) (1).png>)
 
 Once the Guardian of the space approves my submission, I'll be able to see my new badge and XP in my profile!

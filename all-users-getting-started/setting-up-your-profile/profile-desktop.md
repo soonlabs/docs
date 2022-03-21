@@ -10,7 +10,7 @@ Head on over to [https://soonaverse.com/](https://soonaverse.com) and click the 
 
 After you've connected, click your address in the upper right hand corner of the window and choose "My Profile":
 
-![](<../../.gitbook/assets/image (2) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 Click the pencil icon next to your @ handle:
 

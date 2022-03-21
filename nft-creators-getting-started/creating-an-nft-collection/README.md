@@ -32,7 +32,7 @@ NFTs in the Soonaverse are grouped into collections. The collection controls som
 
 The first step to creating an NFT collection on the Soonaverse is to create a profile and a space. You can do that by following the instructions in the SPACE OWNERS - GETTING STARTED section of this documentation:
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (16) (1).png>)
 
 Once you have your space created, you can verify the IOTA Wallet for your space (follow these instructions, except instead of your profile, click the "Verify wallet" button in your space): [Verifying your IOTA Wallet](../../all-users-getting-started/verifying-your-iota-wallet.md)
 

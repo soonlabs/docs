@@ -50,7 +50,7 @@ If an NFT is listed for sale, then any member within the Soonaverse will be able
 
 Of course, what’s the point of buying NFTs if you can’t show them off? Once an NFT has been purchased, it will show up in the member’s profile:
 
-![](<../../.gitbook/assets/image (28) (1) (1).png>)
+![](<../../.gitbook/assets/image (28) (1) (1) (1).png>)
 
 Visitors viewing your profile will be able to purchase your NFTs if you’ve listed them for sale or they can put in offers for NFTs you haven’t listed for sale. Your Soonaverse profile now becomes an art gallery for the world to see. In a future release we may even implement a dedicated webpage or web3 component that you can embed on various platforms and sites. Similar to how you embed tweets from twitter into your profile or where your NFTs are shown on a wall or a background of your choosing.
 

@@ -18,5 +18,5 @@ Members can join a space, discuss topics, build and vote on proposals, and rewar
 
 _Here's an example of a space on the Soonaverse:_
 
-![](<../../.gitbook/assets/image (23) (1) (1).png>)
+![](<../../.gitbook/assets/image (23) (1) (1) (1).png>)
 

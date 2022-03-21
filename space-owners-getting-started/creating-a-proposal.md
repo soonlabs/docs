@@ -16,7 +16,7 @@ And choose "+ New proposal":
 
 You'll see a lot of prompts that you can fill out. Here's an example of a completed proposal form ready to be created:
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (21) (1).png>)
 
 _A few things to take note of on the image above:_
 
@@ -35,5 +35,5 @@ Here is where a Guardian can review and then either "Approve" or "Decline" the p
 
 The proposal is approved and now it's just waiting to get started. As you can see, voting will start in 3 minutes:
 
-![](<../.gitbook/assets/image (19) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (19) (1) (1) (1) (1).png>)
 

@@ -4,7 +4,7 @@ The Soonaverse will be launching the SOON token with an initial supply of 100,00
 
 
 
-![](<../.gitbook/assets/image (26) (1) (1).png>)
+![](<../.gitbook/assets/image (26) (1) (1) (1).png>)
 
 **Launchpad:** Fairly distribute tokens to the public. All these funds, similar to the seed sale, will be used to continue the growth of the Soonaverse.
 

@@ -24,7 +24,7 @@ A pop-up will appear and you'll need to check the box to agree to the Terms and 
 
 You'll sign the MetaMask transaction as you always do and then you'll see a new pop-up. This pop-up will let you know how much IOTA you'll need to send and where to send it. For ease of use, you can click the "Copy" button next to the IOTA address:
 
-![](<../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (19) (1).png>)
 
 The clock is ticking now! It'll only save your spot for a few minutes. Open up your IOTA wallet app and go to the send funds page:
 
@@ -32,7 +32,7 @@ The clock is ticking now! It'll only save your spot for a few minutes. Open up y
 
 Paste the IOTA address that you previously copied from the Soonaverse pop-up and type in the amount of IOTA it requested. After that, send your transaction:
 
-![](<../.gitbook/assets/image (7) (1).png>)
+![](<../.gitbook/assets/image (7) (1) (1).png>)
 
 In a few moments, you'll start to see the transaction history populate on your Soonaverse screen. After around 10 seconds you'll see that your transaction is complete! Now you can click on the "Show my NFT" button and see the newest edition to your digital artwork collection:
 
@@ -44,9 +44,9 @@ You'll be able to see all of the details about your new NFT:
 
 _This is a very important part:_ If you click the "View" button for the On-Chain Record, you'll be taken to the IOTA Tangle Explorer and see that your ownership of the NFT is immutably recognized on the Tangle!
 
-![](<../.gitbook/assets/image (33) (1).png>)
+![](<../.gitbook/assets/image (33) (1) (1).png>)
 
-![](<../.gitbook/assets/image (34).png>)
+![](<../.gitbook/assets/image (34) (1).png>)
 
 
 

@@ -4,7 +4,7 @@ For this tutorial I will be using an Android phone, but the steps should be very
 
 Find the MetaMask app and click "Install":
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 Once it's installed, open the MetaMask app:
 

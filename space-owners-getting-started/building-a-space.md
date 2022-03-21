@@ -20,11 +20,11 @@ As you can see the setup for a space is pretty simple. You just need to do the f
 
 After you complete those things you can click "Create space" and BAM! You have yourself a new space!
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (23) (1).png>)
 
 And here's what it looks like in the wild:
 
-![](<../.gitbook/assets/image (28) (1).png>)
+![](<../.gitbook/assets/image (28) (1) (1).png>)
 
 
 

@@ -1,6 +1,6 @@
 # Proposals
 
-![](<../../.gitbook/assets/image (7) (1) (1).png>)
+![](<../../.gitbook/assets/image (7) (1) (1) (1).png>)
 
 In the Soonaverse, voting is free and securely on-chain.
 

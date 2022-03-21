@@ -14,7 +14,7 @@ Choose "Browser":
 
 In the "Search or Type URL" prompt, type in "soonaverse.com":
 
-![](<../../.gitbook/assets/image (28) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (28) (1) (1) (1) (1).png>)
 
 Once on the Soonaverse home page, you'll want to click the hamburger icon in the upper right hand corner:
 
@@ -44,7 +44,7 @@ Click the hamburger icon in the upper right hand corner:
 
 Choose "My Profile":
 
-![](<../../.gitbook/assets/image (16) (1).png>)
+![](<../../.gitbook/assets/image (16) (1) (1).png>)
 
 Click the "Profile Info" tab that hanging out there on the right:
 
@@ -52,15 +52,15 @@ Click the "Profile Info" tab that hanging out there on the right:
 
 Click the pencil icon next to your MetaMask address:
 
-![](<../../.gitbook/assets/image (20) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (20) (1) (1) (1) (1) (1).png>)
 
 Choose a cool display name, write a brief description about yourself, and then scroll down and click the "Mint Avatar" button (you can even link your Github, Twitter, and Discord accounts).
 
 After you've done all that, make sure to click the "Save changes" button:
 
-![](<../../.gitbook/assets/image (21) (1).png>)
+![](<../../.gitbook/assets/image (21) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (19) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (19) (1) (1) (1) (1) (1).png>)
 
 Click the "Sign" button:
 
