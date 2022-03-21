@@ -31,7 +31,7 @@ After you've reviewed everything, pressed the "Create Proposal" button, and sign
 
 Here is where a Guardian can review and then either "Approve" or "Decline" the proposal to go to a vote. In this case one of the Guardian's will click "Approve" and then sign the transaction in MetaMask:
 
-![](<../.gitbook/assets/image (27) (1) (1).png>)
+![](<../.gitbook/assets/image (27) (1) (1) (1).png>)
 
 The proposal is approved and now it's just waiting to get started. As you can see, voting will start in 3 minutes:
 

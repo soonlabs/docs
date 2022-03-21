@@ -72,7 +72,7 @@ Click the "Sign" button:
 
 ****
 
-![](<../../.gitbook/assets/image (27) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (27) (1) (1) (1) (1) (1).png>)
 
 ****
 

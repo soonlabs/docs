@@ -34,8 +34,8 @@ Once you're comfortable with what's been uploaded, you can click the "Publish NF
 
 ![](<../../../.gitbook/assets/image (7).png>)
 
-After you've created all your NFTs, all you need to do is click the "Publish Collection" button:
+After you've created all your NFTs, all you need to do is click the "Publish Collection" button (**check out how each NFT is fully visible and has it's own "Buy now" button**):
 
-![](<../../../.gitbook/assets/image (33).png>)
+![](<../../../.gitbook/assets/image (27).png>)
 
 _Please note that there's currently a 1 day waiting period from publishing the collection to the availability date of the collection. This is a safeguard to allow the community time to evaluate the project before it goes live. Additionally, it gives the system time to upload everything to IPFS._

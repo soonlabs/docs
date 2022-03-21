@@ -16,7 +16,7 @@ Members who have completed work for DAOs and have accrued XP have the ability to
 
 ****[**Alliances and the Interoperability of DAOs**](https://soonlabs.medium.com/alliances-and-the-interoperability-of-daos-73c7c010b037)****
 
-![](<../../.gitbook/assets/image (27) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (27) (1) (1) (1) (1).png>)
 
 If voters in both DAOs agree to allow DAO XP to convert (at an exchange rate of their choosing) their reputation becomes an active currency they can leverage to boost their own accomplishments or to pledge to other members within the DAO. This “Reputation Ledger” will be a catalyst to help people jumpstart their journey into working full time within every DAO they have an established connection with.
 

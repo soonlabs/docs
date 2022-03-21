@@ -27,6 +27,6 @@ Once you've filled everything out, you can click the "Create NFT" button, sign t
 
 After you've created all your NFTs, all you need to do is click the "Publish Collection" button:
 
-![](<../../../.gitbook/assets/image (27).png>)
+![](<../../../.gitbook/assets/image (27) (1).png>)
 
 _Please note that there's currently a 1 day waiting period from publishing the collection to the availability date of the collection. This is a safeguard to allow the community time to evaluate the project before it goes live. Additionally, it gives the system time to upload everything to IPFS._
