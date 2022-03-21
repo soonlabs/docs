@@ -30,7 +30,7 @@ Click the "Connect" button:
 
 Click the "Sign" button:
 
-![](<../../.gitbook/assets/image (22) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (22) (1) (1) (1) (1) (1) (1).png>)
 
 
 
@@ -72,7 +72,7 @@ Click the "Sign" button:
 
 ****
 
-![](<../../.gitbook/assets/image (27) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (27) (1) (1) (1) (1).png>)
 
 ****
 

@@ -2,7 +2,7 @@
 
 Classic NFTs are the most straightforward in that you upload your images, they’re all visible right away, and people can browse through your collection and purchase what they like. Simply upload and sell!
 
-After you've created your NFT Collection, the next thing you'll want to do is click the "+ Create NFT" button:
+After you've created your Classic NFT Collection, the next thing you'll want to do is click the "+ Create NFT" button:
 
 ![](<../../../.gitbook/assets/image (7).png>)
 

@@ -12,7 +12,7 @@ Click on the "Collections" tab while on the Discover Soonaverse page ([https://s
 
 On this screen you'll be able to see all of the NFT collections. Choose the collection you'd like to buy an NFT from:
 
-![](<../.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/image (22) (1).png>)
 
 Depending on what type of collection it is, you'll either click the "Buy now" button on the generated NFT placeholder image, or the specific NFT if it's a classic NFT. In this example we'll be buying a generated NFT which means we'll click the "Buy now" button on the placeholder image and when we buy, we'll receive a randomly selected NFT from the collection:
 
@@ -44,7 +44,7 @@ You'll be able to see all of the details about your new NFT:
 
 _This is a very important part:_ If you click the "View" button for the On-Chain Record, you'll be taken to the IOTA Tangle Explorer and see that your ownership of the NFT is immutably recognized on the Tangle!
 
-![](<../.gitbook/assets/image (33).png>)
+![](<../.gitbook/assets/image (33) (1).png>)
 
 ![](<../.gitbook/assets/image (34).png>)
 
