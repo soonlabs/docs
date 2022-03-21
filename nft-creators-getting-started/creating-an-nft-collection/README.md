@@ -2,6 +2,8 @@
 
 An artist should be able to focus all their energy into their art. They shouldn’t have to worry about the intricacies of setting up their own NFT launchpad. With the new NFT Builder, artists no longer need to worry about things like IPFS, creating their own smart contracts, setting up a dedicated website, etc. We simplify the entire process, plus you have the added benefit of your work being available within the Soonaverse and the 10,000+ and growing Soonaverse community waiting to engage with your artwork.
 
+**Available file types for NFTs:** jpg, jpeg, png, webp, and mp4. The limit for each file is 100 MB.
+
 
 
 {% embed url="https://www.youtube.com/watch?t=1s&v=nbhIDBWOKOU" %}
