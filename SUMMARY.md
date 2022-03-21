@@ -55,9 +55,12 @@
 * [Building a Space](nft-creators-getting-started/building-a-space.md)
 * [Verifying the IOTA Wallet](nft-creators-getting-started/verifying-the-iota-wallet.md)
 * [Creating an NFT Collection](nft-creators-getting-started/creating-an-nft-collection/README.md)
-  * [Classic](nft-creators-getting-started/creating-an-nft-collection/classic.md)
+  * [Classic](nft-creators-getting-started/creating-an-nft-collection/classic/README.md)
+    * [Adding a Single NFT](nft-creators-getting-started/creating-an-nft-collection/classic/adding-a-single-nft.md)
+    * [Adding Multiple NFTs](nft-creators-getting-started/creating-an-nft-collection/classic/adding-multiple-nfts.md)
   * [Generated](nft-creators-getting-started/creating-an-nft-collection/generated.md)
   * [SFT](nft-creators-getting-started/creating-an-nft-collection/sft.md)
+  * [🌟 Pro Tips](nft-creators-getting-started/creating-an-nft-collection/pro-tips.md)
 
 ## 🪙 Tokenomics
 

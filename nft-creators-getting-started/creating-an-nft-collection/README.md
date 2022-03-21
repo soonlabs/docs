@@ -78,6 +78,6 @@ Once you've completed all the fields, you click the "Create collection" button a
 
 To see how each individual collection type is uploaded, check out the following pages:
 
-* [Classic](classic.md)
+* [Classic](classic/)
 * [Generated](generated.md)
 * [SFT](sft.md)

@@ -32,7 +32,7 @@ The clock is ticking now! It'll only save your spot for a few minutes. Open up y
 
 Paste the IOTA address that you previously copied from the Soonaverse pop-up and type in the amount of IOTA it requested. After that, send your transaction:
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 In a few moments, you'll start to see the transaction history populate on your Soonaverse screen. After around 10 seconds you'll see that your transaction is complete! Now you can click on the "Show my NFT" button and see the newest edition to your digital artwork collection:
 
