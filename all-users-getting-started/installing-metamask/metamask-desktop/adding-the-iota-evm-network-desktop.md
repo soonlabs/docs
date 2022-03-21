@@ -22,7 +22,7 @@ _**Block Explorer URL: https://explorer.wasp.sc.iota.org**_
 
 After you've filled in all the prompts, click "Save":
 
-![](<../../../.gitbook/assets/image (24) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (24) (1) (1) (1) (1).png>)
 
 And just like that you've added the IOTA EVM Testnet network to your MetaMask!
 

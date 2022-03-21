@@ -16,7 +16,7 @@ A brief walkthrough of how to create an NFT collection
 
 The NFT Builder will initially allow artists to choose and upload three different types of NFT collections: Classic NFTs, Generated NFTs, and SFTs.
 
-![](<../../.gitbook/assets/image (27) (1) (1).png>)
+![](<../../.gitbook/assets/image (27) (1) (1) (1).png>)
 
 _**Classic NFTs**_ are the most straightforward in that you upload your images, they’re all visible right away, and people can browse through your collection and purchase what they like. Simply upload and sell!
 
@@ -28,7 +28,7 @@ _**SFTs**_ (Semi-Fungible Tokens) are a hybrid between the two approaches above.
 
 NFTs in the Soonaverse are grouped into collections. The collection controls some overall settings, and within that collection, you'll load NFTs:
 
-![](<../../.gitbook/assets/image (25) (1).png>)
+![](<../../.gitbook/assets/image (25) (1) (1).png>)
 
 The first step to creating an NFT collection on the Soonaverse is to create a profile and a space. You can do that by following the instructions in the SPACE OWNERS - GETTING STARTED section of this documentation:
 
@@ -42,7 +42,7 @@ After you've verified your IOTA wallet, you'll need to participate in the "Creat
 
 Once you've done that you'll see that there's now a button in your space that allows you to create NFT collections. All you need to do to add a new collection to your space is to click the "+ New Collection" button:
 
-![](<../../.gitbook/assets/image (29) (1) (1).png>)
+![](<../../.gitbook/assets/image (29) (1) (1) (1).png>)
 
 On the "Create new collection" page, you'll need to fill out the following fields:
 
@@ -68,13 +68,13 @@ On the "Create new collection" page, you'll need to fill out the following field
   * _Also, please note that a member would need to own an NFT for EACH collection that you select, not just a single collection._
 * _**Member discounts**_ - Here you can apply discounts on the purchase price of your NFTs. Use XP > -1 if you don't require members purchasing to have any XP from your space (I would recommend click the "One NFT per Member Only" button if you go this route, so one member doesn't mint every NFT. Please note, 1Mi will always be required to purchase the NFT due to the IOTA protocol's dust protection mechanism.
 
-![](<../../.gitbook/assets/image (29).png>)
+![](<../../.gitbook/assets/image (29) (1).png>)
 
 _Check out the example image above: You'll see that all members who own an NFT in both the "Awesome DAO stuff" and "Soonabots Collection" collections (even if they aren't members of your space) will be able to mint one of these NFTs for free (1 Mi). This is basically an airdrop to everybody who holds those collections._
 
 Once you've completed all the fields, you click the "Create collection" button at the bottom, sign the transaction in MetaMask, and then the collection is created. After that you can begin creating your NFTs by clicking the "+ Create NFT" button:
 
-![](<../../.gitbook/assets/image (32).png>)
+![](<../../.gitbook/assets/image (32) (1).png>)
 
 To see how each individual collection type is uploaded, check out the following pages:
 

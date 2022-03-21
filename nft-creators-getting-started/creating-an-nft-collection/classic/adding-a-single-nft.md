@@ -10,7 +10,7 @@
 
 On the "Create NFT" screen, you'll notice that the "Single" tab is automatically defaulted to. This is where you can add a single NFT:
 
-![](<../../../.gitbook/assets/image (33) (1).png>)
+![](<../../../.gitbook/assets/image (33) (1) (1).png>)
 
 You want to fill out all of the fields and upload your NFT file:
 
@@ -23,10 +23,10 @@ You want to fill out all of the fields and upload your NFT file:
 
 Once you've filled everything out, you can click the "Create NFT" button, sign the MetaMask transaction, and your NFT will now show up in your collection:
 
-![](<../../../.gitbook/assets/image (22).png>)
+![](<../../../.gitbook/assets/image (22) (1).png>)
 
 After you've created all your NFTs, all you need to do is click the "Publish Collection" button:
 
-![](<../../../.gitbook/assets/image (27) (1).png>)
+![](<../../../.gitbook/assets/image (27) (1) (1).png>)
 
 _Please note that there's currently a 1 day waiting period from publishing the collection to the availability date of the collection. This is a safeguard to allow the community time to evaluate the project before it goes live. Additionally, it gives the system time to upload everything to IPFS._

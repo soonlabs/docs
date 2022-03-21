@@ -6,7 +6,7 @@ Holders of the SOON token will have a say in the Soonaverse protocol governance 
 
 **While the core modules are free to use, the service protocols have built-in fee generating mechanisms** that continuously provide additional funds to the Soonaverse Treasury:
 
-![](<../.gitbook/assets/image (23) (1) (1).png>)
+![](<../.gitbook/assets/image (23) (1) (1) (1).png>)
 
 We will begin with 2 service protocols and continuously add more on top of our foundation feeless core modules:
 

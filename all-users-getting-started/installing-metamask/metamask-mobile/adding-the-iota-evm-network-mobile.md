@@ -6,7 +6,7 @@ _Your MetaMask will default to the "Ethereum Main Network" network, so we need t
 
 Click the hamburger icon in the upper left of the screen:
 
-![](<../../../.gitbook/assets/image (26) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (26) (1) (1) (1) (1) (1).png>)
 
 Click on "Settings":
 
@@ -18,7 +18,7 @@ Click on "Networks":
 
 Click the "Add Network" button:
 
-![](<../../../.gitbook/assets/image (23) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (23) (1) (1) (1) (1) (1).png>)
 
 
 

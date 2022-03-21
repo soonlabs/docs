@@ -4,4 +4,4 @@ If you haven't verified your IOTA wallet yet, please visit our [Verifying your I
 
 _**The only difference is that you'll be clicking the "Verify wallet" button in your Space:**_
 
-![](<../.gitbook/assets/image (32) (1).png>)
+![](<../.gitbook/assets/image (32) (1) (1).png>)

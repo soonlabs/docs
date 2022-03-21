@@ -1,6 +1,6 @@
 # Reputation
 
-![](<../../.gitbook/assets/image (31) (1).png>)
+![](<../../.gitbook/assets/image (31) (1) (1).png>)
 
 Reputation is what you’ve accomplished in the communities (spaces) you’ve chosen to belong to. Reputation is a foundational component of the Soonaverse platform, it provides a history of your behavior, achievements and allows other users to quickly connect, trust, and interpret your intentions.
 

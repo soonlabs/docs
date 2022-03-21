@@ -12,7 +12,7 @@ Once it's installed, open the MetaMask app:
 
 Click the "Get started" button:
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 From here you should have at least two options:
 

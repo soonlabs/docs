@@ -14,7 +14,7 @@ After you've connected, click your address in the upper right hand corner of the
 
 Click the pencil icon next to your @ handle:
 
-![](<../../.gitbook/assets/image (4) (1) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1) (1).png>)
 
 Change your Display Name to one you think is awesome and add a brief description about yourself:
 

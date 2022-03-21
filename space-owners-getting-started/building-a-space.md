@@ -20,11 +20,11 @@ As you can see the setup for a space is pretty simple. You just need to do the f
 
 After you complete those things you can click "Create space" and BAM! You have yourself a new space!
 
-![](<../.gitbook/assets/image (23) (1).png>)
+![](<../.gitbook/assets/image (23) (1) (1).png>)
 
 And here's what it looks like in the wild:
 
-![](<../.gitbook/assets/image (28) (1) (1).png>)
+![](<../.gitbook/assets/image (28) (1) (1) (1).png>)
 
 
 
@@ -34,6 +34,6 @@ We integrated the **Firefly** and **TanglePay** wallets in order to validate add
 
 Before a space can create a collection, they must have a validated space wallet. This validation process is fully automated and involves sending a small amount of IOTA to an address to verify that the space owner has control of the keys, and then that amount is automatically sent back. After that, the space is eligible to create NFT collections and receive royalties.
 
-![](<../.gitbook/assets/image (30) (1) (1).png>)
+![](<../.gitbook/assets/image (30) (1) (1) (1).png>)
 
 _Please note that at this time, once an address is validated for a space, it cannot be changed. We did this for security reasons, so a rogue guardian can’t change the address without anyone knowing until it’s too late. We’ll introduce a feature in the future that enables guardians to vote on changing the validated address._

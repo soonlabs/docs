@@ -39,7 +39,7 @@ On this next screen you'll want to create and confirm your password. Make sure t
 
 Check the "Terms of Use" box and then click the "Create" button:
 
-![](<../../../.gitbook/assets/image (23) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (23) (1) (1) (1) (1) (1) (1).png>)
 
 The security of your MetaMask wallet is so important! Please take a few minutes to watch the video and read about your Secret Recovery Phrase. We can't stress enough how crucial this part is to the crypto ecosystem as a whole.
 
@@ -59,7 +59,7 @@ After you have your secret words written down, you can click the "Next" button:
 
 You will now be prompted to click each word in order to recreate your Secret Recovery Phase as a security measure to make sure you definitely know it. After you arrange them into the correct order, you can click the "confirm" button because you've confirmed that you've written down your Secret Recovery Phrase somewhere:
 
-![](<../../../.gitbook/assets/image (22) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (22) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../../../.gitbook/assets/image (14) (1) (1) (1) (1).png>)
 

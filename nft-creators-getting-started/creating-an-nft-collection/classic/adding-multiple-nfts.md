@@ -14,15 +14,20 @@ The first thing you need to do is upload all of your NFTs. You can do this by dr
 
 Once you've successfully uploaded your files (this can take several minutes depending on how many and how large your files are), click the "Generate CSV" button:
 
-![](<../../../.gitbook/assets/image (28).png>)
+![](<../../../.gitbook/assets/image (28) (1).png>)
 
 After you generate and download the CSV, open it in your preferred viewer. For this tutorial I'll be using Microsoft Excel. You'll notice when you open up the spreadsheet that the file names aren't in any type of order. Feel free to sort them how you please before inputting data. It won't affect anything when you go to reupload.
 
-![](<../../../.gitbook/assets/image (23).png>)
+![](<../../../.gitbook/assets/image (23) (1).png>)
 
-Fill in all of the cells applicable to you (_note that "price" is in IOTA and not MIOTA_):
+Fill in all of the cells applicable to you:
 
-![](<../../../.gitbook/assets/image (26).png>)
+_Special notes:_
+
+1. _"price" is in IOTA and not MIOTA._
+2. _The generated CSV automatically defaults to 5 properties and 5 stats, but you can add more by inserting new columns and using the same verbiage (i.e. “prop.label6, prop.value6)._
+
+![](<../../../.gitbook/assets/image (26) (1).png>)
 
 After you've added all your information, save the CSV to your computer, and upload it:
 
@@ -34,8 +39,8 @@ Once you're comfortable with what's been uploaded, you can click the "Publish NF
 
 ![](<../../../.gitbook/assets/image (7).png>)
 
-After you've created all your NFTs, all you need to do is click the "Publish Collection" button (**check out how each NFT is fully visible and has it's own "Buy now" button**):
+After you've created all your NFTs, all you need to do is click the "Publish Collection" button (**Check out how each NFT is fully visible and has it's own "Buy now" button**):
 
-![](<../../../.gitbook/assets/image (27).png>)
+![](<../../../.gitbook/assets/image (27) (1).png>)
 
 _Please note that there's currently a 1 day waiting period from publishing the collection to the availability date of the collection. This is a safeguard to allow the community time to evaluate the project before it goes live. Additionally, it gives the system time to upload everything to IPFS._
