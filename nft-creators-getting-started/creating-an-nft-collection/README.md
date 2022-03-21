@@ -57,12 +57,12 @@ On the "Create new collection" page, you'll need to fill out the following field
 * _**Placeholder**_ - When you choose "GENERATED" or "SFT" for Collection type, you get a new section that pops up called “Placeholder”. You can upload an image, GIF(webp), or video(mp4) as a placeholder image since you will only have one singular "Buy now" box once your sale goes live. _Please note that for video(mp4), the user will need to press the play button._
 * _**Category**_ - A specific type of category can be chosen (Collectible, PFP, Photography, Animation, 3D, etc.)
 * _**Links**_ - A place for you to link your website, Twitter handle, and Discord account.
-* _**Collection Setup**_ - Choose who has access to buy your collection
-  * _Open Sale_ - Everyone has access to purchase NFTs in the collection
-  * _Space Guardians Only_ - Only guardians of your space have access to purchase NFTs in the collection
-  * _Space Members Only_ - Only members of your space have access to purchase NFTs in the collection
-  * _Space Members with Badge Only_ - Only members of your space with a specific badge from participating in one of your awards have access to purchase NFTs in the collection
-  * _At least one NFT from Collections_ - Only people who hold at least one NFT from each of the selected collections cam purchase NFTs in the collection
+* _**Collection Setup**_ - Choose who has access to buy your collection.
+  * _Open Sale_ - Everyone has access to purchase NFTs in the collection.
+  * _Space Guardians Only_ - Only guardians of your space have access to purchase NFTs in the collection.
+  * _Space Members Only_ - Only members of your space have access to purchase NFTs in the collection.
+  * _Space Members with Badge Only_ - Only members of your space with a specific badge from participating in one of your awards have access to purchase NFTs in the collection.
+  * _At least one NFT from Collections_ - Only people who hold at least one NFT from each of the selected collections cam purchase NFTs in the collection.
 * _**Collection Options**_ - Click the "One NFT per Member Only" button if you want to limit each member to only purchasing one NFT. THIS IS GREAT FOR AIRDROPS. If you choose the "At least one NFT from Collections" option in the Collection Setup section, then you'd choose the specific collections here.
   * _One main caveat here: We currently don’t automatically show the NFT collections that the purchaser needs, so it’s important for you, the collection creator, to add these details in your description!_
   * _Also, please note that a member would need to own an NFT for EACH collection that you select, not just a single collection._
