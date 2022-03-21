@@ -46,7 +46,7 @@ Once you've done that you'll see that there's now a button in your space that al
 
 On the "Create new collection" page, you'll need to fill out the following fields:
 
-* _**Name**_ - This is title of your collection that
+* _**Name**_ - This is title of your collection that will show up on the main pages.
 * _**Description**_ - A description of your collection (supports markdown language)
 * _**Collection Type**_ - Please refer to the 3 types of collections that were mentioned above and choose the one most applicable to you.
 * _**Price**_ - For Generated and SFT collection types, this will be the price of every NFT in your collection. If you choose a Classic collection type then this price will be the default, but you can manually change the price of each NFT in your collection.
