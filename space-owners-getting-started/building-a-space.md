@@ -4,7 +4,7 @@ If you don't remember what a space is, [check it out here!](../the-basics/basic-
 
 Building a space in the Soonaverse is incredibly easy! We'll take you through step by step!
 
-The first thing you need to do is participate in an any award on the Soonaverse. You can do that by following these instructions: [Participating in an Award](../all-users-getting-started/participating-in-an-award.md). This will give you some XP. You need XP to create a space.
+The first thing you need to do is participate in any award on the Soonaverse. You can do that by following these instructions: [Participating in an Award](../all-users-getting-started/participating-in-an-award.md). This will give you some XP. You need XP to create a space.
 
 The next thing you'll want to do is go to [https://soonaverse.com/discover/spaces](https://soonaverse.com/discover/spaces), click the "Create new" dropdown button, and then choose "Space":
 
