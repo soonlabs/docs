@@ -24,6 +24,9 @@ _Special notes:_
 
 1. _**You don't need to worry about randomization. The platform will automatically take care of it.**_
 2. _The generated CSV automatically defaults to 5 properties and 5 stats, but you can add more by inserting new columns and using the same verbiage (i.e. “prop.label6, prop.value6)._
+3. _Use ISO 8601 standard for the date field (_[_https://en.wikipedia.org/wiki/ISO\_8601_](https://en.wikipedia.org/wiki/ISO\_8601)_)_
+   * _For example, for April 10th, 2022 at 5:30am UTC, you'd use:_ 2022-04-10T05:30:00Z
+4. Do not change any column header names in the spreadsheet. They need to be as provided in the CSV example you exported.
 
 ![](<../../.gitbook/assets/image (22).png>)
 
