@@ -26,6 +26,8 @@ _Special notes:_
 
 1. _"price" is in IOTA and not MIOTA._
 2. _The generated CSV automatically defaults to 5 properties and 5 stats, but you can add more by inserting new columns and using the same verbiage (i.e. “prop.label6, prop.value6)._
+3. _Use ISO 8601 standard for the date field (_[_https://en.wikipedia.org/wiki/ISO\_8601_](https://en.wikipedia.org/wiki/ISO\_8601)_)_
+   * _For example, for April 10th, 2022 at 5:30am UTC, you'd use:_ 2022-04-10T14:05:30Z
 
 ![](<../../../.gitbook/assets/image (26) (1).png>)
 
