@@ -6,7 +6,7 @@ Generated NFTs add a little mystery into the mix. The buyer won’t know what th
 
 On the "Create NFT" screen, you'll want to click the "Multiple" tab. This is where you can add multiple NFTs:
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (25) (1).png>)
 
 The first thing you need to do is upload all of your NFTs. You can do this by dragging and dropping the files into in the "Upload multiple images" box or you can click on the "Upload multiple images" box and select the files in your file explorer.
 

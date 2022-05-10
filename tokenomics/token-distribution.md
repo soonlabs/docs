@@ -1,17 +1,19 @@
 # Token Distribution
 
-The Soonaverse will be launching the SOON token with an initial supply of 100,000,000.
+The SOON token will have a fixed supply of 100,000,000,000,000. This large number is being used instead of the initially stated 100,000,000 supply because of the absence of decimal places when minting tokens natively on the Shimmer network. Therefore, $SOON will have a massive 100 trillion supply and follow the same mega/giga/tera naming convention as the IOTA token (i.e. 10 mSOON, or 10 Mega SOON, is equal to 10,000,000 SOON).
 
+Token Airdrops to NFT holders were, and will be, stated in mSoon. If our spreadsheet originally said you received 1,000 SOON you have 1,000 mSOON.
 
+The distribution of the fixed 100,000,000 mSOON supply is as follows:
 
-![](<../.gitbook/assets/image (26) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (25).png>)
 
-**Launchpad:** Fairly distribute tokens to the public. All these funds, similar to the seed sale, will be used to continue the growth of the Soonaverse.
+_**Launchpad**_: Fairly distribute tokens to the public. All these funds will be used to continue the growth of the Soonaverse.
 
-**Seed:** The seed sale will be used to hire more developers, pay for code audits, and all other cumulative costs.
+_**CEX Liquidity**_: Engage with a market maker to ensure the SOON token is completely liquid across all centralized exchanges it’s listed on.
 
-**Core Contributors:** These tokens are allocated for the founding team and other critical team members.
+_**Core Contributors**_: These tokens are allocated for the founding team and other critical team members.
 
-**Treasury:** This will be used as a cushion to fund future development costs until the service protocol fee revenue is large enough to become self-sustaining.
+_**Treasury**_: This will be staked and revenue generated through SPDRs will be used to fund future development costs and third party service modules.
 
-**Community Adoption Incentives:** A large pool of tokens will be set aside to reward early community members, encourage the use of the platform, and incentivize liquidity of the SOON token.
+_**Community Adoption Incentives**_: 10% of the token supply will be airdropped to all SoonLabs Genesis NFT holders. The remaining 30% will be used to reward stakers and liquidity providers over a period of 3 years. Staking will begin once smart contracts are live.

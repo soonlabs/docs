@@ -20,7 +20,7 @@ _**Generated NFTs**_ add a little mystery into the mix. The buyer won’t know w
 
 _**SFTs**_ (Semi-Fungible Tokens) are a hybrid between the two approaches above. The collection creator can create a classic NFT, but they have the option to multiply them. For example, they can upload 10 images, but each image will have a quantity of 100. This is a relatively new term in the space, but a good real world example of this approach would be baseball or football trading cards.
 
-![](<../../.gitbook/assets/image (25) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (25) (1) (1) (1) (1) (1) (1) (1).png>)
 
 By default, **all** initial sales and royalties will go to the space that created the collection, but the creator has the ability to point royalties to another space. This means that an artist can help a space raise funds via an NFT sale and receive a royalty on both the initial sale and all future secondary market sales for their work. This royalty percentage is fully customizable and under the control of the creator. No additional fees from the platform are involved, unlike other platforms like OpenSea which tax both the creator and buyers.
 

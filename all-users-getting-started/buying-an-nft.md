@@ -16,7 +16,7 @@ On this screen you'll be able to see all of the NFT collections. Choose the coll
 
 Depending on what type of collection it is, you'll either click the "Buy now" button on the generated NFT placeholder image, or the specific NFT if it's a classic NFT. In this example we'll be buying a generated NFT which means we'll click the "Buy now" button on the placeholder image and when we buy, we'll receive a randomly selected NFT from the collection:
 
-![](<../.gitbook/assets/image (25) (1).png>)
+![](<../.gitbook/assets/image (25) (1) (1).png>)
 
 A pop-up will appear and you'll need to check the box to agree to the Terms and Conditions, and then click the "Confirm and Lock" button:
 
