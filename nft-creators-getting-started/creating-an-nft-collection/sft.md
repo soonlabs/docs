@@ -8,7 +8,7 @@ _Please note that NFTs in an SFT Collection will be randomized just like the Gen
 
 On the "Create NFT" screen, you'll want to click the "Multiple" tab. This is where you can add multiple NFTs:
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (27) (1).png>)
 
 The first thing you need to do is upload all of your NFTs. You can do this by dragging and dropping the files into in the "Upload multiple images" box or you can click on the "Upload multiple images" box and select the files in your file explorer.
 
@@ -30,7 +30,7 @@ _Special notes:_
    * _For example, for April 10th, 2022 at 5:30am UTC, you'd use:_ 2022-04-10T05:30:00Z
 4. Do not change any column header names in the spreadsheet. They need to be as provided in the CSV example you exported.
 
-![](<../../.gitbook/assets/image (30).png>)
+![](<../../.gitbook/assets/image (30) (1).png>)
 
 After you've added all your information, save the CSV to your computer, and upload it:
 
@@ -40,7 +40,7 @@ For the next step we recommend you click the eye icon next to a few of your NFTs
 
 Once you're comfortable with what's been uploaded, you can click the "Publish NFTs" button and sign the MetaMask transaction:
 
-![](<../../.gitbook/assets/image (33).png>)
+![](<../../.gitbook/assets/image (33) (1).png>)
 
 After you've created all your NFTs, all you need to do is click the "Publish Collection" button (**Check out how only one NFT with your placeholder image and a "Buy now" button is visible. Every time someone clicks the "Buy now" button, a random NFT from your collection will be selected and sold to them**):
 

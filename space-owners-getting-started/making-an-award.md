@@ -6,7 +6,7 @@ Badges are rewarded to a contributor upon fulfillment of the assignment. Various
 
 To make an award for your space, go to the "Awards" tab inside your space:
 
-![](<../.gitbook/assets/image (28) (1) (1).png>)
+![](<../.gitbook/assets/image (28) (1) (1) (1).png>)
 
 From there, click the "+ New award" button:
 

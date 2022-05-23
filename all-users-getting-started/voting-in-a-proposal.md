@@ -16,4 +16,4 @@ Click anywhere on the active proposal to open it up. Choose which option you wan
 
 After signing the transaction with your MetaMask, you'll see the Current Results get updated:
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1).png>)

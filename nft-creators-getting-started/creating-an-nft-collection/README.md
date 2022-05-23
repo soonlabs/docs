@@ -16,7 +16,7 @@ A brief walkthrough of how to create an NFT collection
 
 The NFT Builder will initially allow artists to choose and upload three different types of NFT collections: Classic NFTs, Generated NFTs, and SFTs.
 
-![](<../../.gitbook/assets/image (27) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (27) (1) (1) (1) (1).png>)
 
 _**Classic NFTs**_ are the most straightforward in that you upload your images, they’re all visible right away, and people can browse through your collection and purchase what they like. Simply upload and sell!
 
@@ -38,7 +38,7 @@ Once you have your space created, you can verify the IOTA Wallet for your space 
 
 After you've verified your IOTA wallet, you'll need to participate in the "Create a Collection Badge" award in the SoonLabs space (this is our current solution for spam protection until the SOON token is launched): [https://soonaverse.com/award/0x3ccb9fe9d6f429981522fb1927a2259149a4a192/overview](https://soonaverse.com/award/0x3ccb9fe9d6f429981522fb1927a2259149a4a192/overview)
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 Once you've done that you'll see that there's now a button in your space that allows you to create NFT collections. All you need to do to add a new collection to your space is to click the "+ New Collection" button:
 

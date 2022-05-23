@@ -26,5 +26,5 @@ After you've filled in all the prompts, click "Save":
 
 And just like that you've added the IOTA EVM Testnet network to your MetaMask!
 
-![](<../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1).png>)
 

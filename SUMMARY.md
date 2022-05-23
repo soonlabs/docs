@@ -61,6 +61,11 @@
   * [Generated](nft-creators-getting-started/creating-an-nft-collection/generated.md)
   * [SFT](nft-creators-getting-started/creating-an-nft-collection/sft.md)
 
+## 🚀 Token Launchpad
+
+* [Creating a Token](token-launchpad/creating-a-token.md)
+* [Buying Tokens](token-launchpad/buying-tokens.md)
+
 ## 🪙 Tokenomics
 
 * [Token Distribution](tokenomics/token-distribution.md)

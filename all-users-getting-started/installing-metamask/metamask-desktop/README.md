@@ -6,7 +6,7 @@ Go to [https://metamask.io/download/](https://metamask.io/download/) and install
 
 You'll be taken to a screen where you can add the extension to your browser (click the "Add to" button):
 
-![](<../../../.gitbook/assets/image (9) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (9) (1) (1) (1) (1).png>)
 
 You may get an additional permissions box that pops up, click the "Add" button:
 
@@ -20,7 +20,7 @@ For any additional options feel free to click "Okay" for right now:
 
 Now that you've successfully installed MetaMask as a browser extension, you can begin setting up your private keys! Click the "Get Started" button:
 
-![](<../../../.gitbook/assets/image (6) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (6) (1) (1) (1) (1).png>)
 
 You'll be presented with two options:
 
@@ -29,11 +29,11 @@ You'll be presented with two options:
 
 For our tutorial we're going to "Create a Wallet":
 
-![](<../../../.gitbook/assets/image (3) (1).png>)
+![](<../../../.gitbook/assets/image (3) (1) (1).png>)
 
 A screen may prompt asking if you'd like to send additional data. We will be choosing "No Thanks" in this tutorial:
 
-![](<../../../.gitbook/assets/image (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1) (1).png>)
 
 On this next screen you'll want to create and confirm your password. Make sure to make it a strong one and follow proper password management so you don't forget it and it's always secure :thumbsup:
 
@@ -49,13 +49,13 @@ After you're done, you can click the "Next" button:
 
 Now that you've learned about the Secret Recovery Phrase, you understand how important it is to keep it a secret. Click in the locked box to reveal your secret words:
 
-![](<../../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 Follow one of the many methods to save your Secret Recovery Phrase. An easy thing to do is to get two pieces of paper and write your secret words down (in the correct order) on both pieces of paper.
 
 After you have your secret words written down, you can click the "Next" button:
 
-![](<../../../.gitbook/assets/image (8) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (8) (1) (1) (1) (1).png>)
 
 You will now be prompted to click each word in order to recreate your Secret Recovery Phase as a security measure to make sure you definitely know it. After you arrange them into the correct order, you can click the "confirm" button because you've confirmed that you've written down your Secret Recovery Phrase somewhere:
 

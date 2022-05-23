@@ -1,10 +1,6 @@
 # Token Distribution
 
-The SOON token will have a fixed supply of 100,000,000,000,000. This large number is being used instead of the initially stated 100,000,000 supply because of the absence of decimal places when minting tokens natively on the Shimmer network. Therefore, $SOON will have a massive 100 trillion supply and follow the same mega/giga/tera naming convention as the IOTA token (i.e. 10 mSOON, or 10 Mega SOON, is equal to 10,000,000 SOON).
-
-Token Airdrops to NFT holders were, and will be, stated in mSoon. If our spreadsheet originally said you received 1,000 SOON you have 1,000 mSOON.
-
-The distribution of the fixed 100,000,000 mSOON supply is as follows:
+The distribution of the fixed 100,000,000 SOON supply is as follows:
 
 ![](<../.gitbook/assets/image (25).png>)
 

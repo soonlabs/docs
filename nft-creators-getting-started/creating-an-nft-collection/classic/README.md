@@ -4,7 +4,7 @@ Classic NFTs are the most straightforward in that you upload your images, theyâ€
 
 After you've created your Classic NFT Collection, the next thing you'll want to do is click the "+ Create NFT" button:
 
-![](<../../../.gitbook/assets/image (7) (1).png>)
+![](<../../../.gitbook/assets/image (7) (1) (1).png>)
 
 From there you'll follow the steps outlined in either one of these pages depending on your upload strategy:
 

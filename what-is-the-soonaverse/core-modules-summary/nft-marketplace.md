@@ -28,7 +28,7 @@ Another powerful feature we were able to include, since NFTs are fully integrate
 
 Finally, the last piece to the puzzle was integrating the **Firefly** and **TanglePay** wallets in order to validate addresses that will be receiving funds from NFT sales. There’s a new section in all spaces called “Your wallet” with a button to “Verify wallet.” Before a space can create a collection, they must have a validated space wallet. This validation process is fully automated and involves sending a small amount of IOTA to an address to verify that the space owner has control of the keys, and then that amount is automatically sent back. After that, the space is eligible to create NFT collections and receive royalties.
 
-![](<../../.gitbook/assets/image (8) (1).png>)
+![](<../../.gitbook/assets/image (8) (1) (1).png>)
 
 _Please note that at this time, once an address is validated for a space, it cannot be changed. We did this for security reasons, so a rogue guardian can’t change the address without anyone knowing until it’s too late. We’ll introduce a feature in the future that enables guardians to vote on changing the validated address._
 
@@ -50,7 +50,7 @@ If an NFT is listed for sale, then any member within the Soonaverse will be able
 
 Of course, what’s the point of buying NFTs if you can’t show them off? Once an NFT has been purchased, it will show up in the member’s profile:
 
-![](<../../.gitbook/assets/image (28) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (28) (1) (1) (1) (1) (1).png>)
 
 Visitors viewing your profile will be able to purchase your NFTs if you’ve listed them for sale or they can put in offers for NFTs you haven’t listed for sale. Your Soonaverse profile now becomes an art gallery for the world to see. In a future release we may even implement a dedicated webpage or web3 component that you can embed on various platforms and sites. Similar to how you embed tweets from twitter into your profile or where your NFTs are shown on a wall or a background of your choosing.
 

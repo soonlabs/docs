@@ -2,7 +2,7 @@
 
 The Reputation Station allows a member to enshrine their contributions and achievements into a quantifiable “reputation” that can be immutably expressed through badges (the types of tasks completed) and experience tokens (the value of those tasks). This reputation is given out through Awards.
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 Badges are created by individual DAOs. They define the tasks and value of the “work to be done”, which is expressed in experience tokens (XP). XP is created via an ISCP smart contract, which controls the wrapping of the native DAO token (DAO in this example) into XP. Each XP token is equivalent to 1 native token (DAO). The XP is tied to the successful completion of the task and is awarded along with the badge when the task is completed.
 
@@ -16,7 +16,7 @@ Members who have completed work for DAOs and have accrued XP have the ability to
 
 ****[**Alliances and the Interoperability of DAOs**](https://soonlabs.medium.com/alliances-and-the-interoperability-of-daos-73c7c010b037)****
 
-![](<../../.gitbook/assets/image (27) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (27) (1) (1) (1) (1) (1) (1).png>)
 
 If voters in both DAOs agree to allow DAO XP to convert (at an exchange rate of their choosing) their reputation becomes an active currency they can leverage to boost their own accomplishments or to pledge to other members within the DAO. This “Reputation Ledger” will be a catalyst to help people jumpstart their journey into working full time within every DAO they have an established connection with.
 
