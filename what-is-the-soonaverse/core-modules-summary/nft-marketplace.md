@@ -40,7 +40,7 @@ From the discover screen you’ll be able to click on any collection that you mi
 
 ![](<../../.gitbook/assets/image (29) (1) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (22) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (22) (1) (1) (1) (1) (1) (1) (1).png>)
 
 When you’re looking at the actual NFT, you’ll be able to see all of the system info (address, IPFS info), properties, and stats that the creator inputted. Additionally, you’ll be able to view a full timeline history with a link to a Tangle Explorer to see all of the transactions related to the NFT on chain.
 

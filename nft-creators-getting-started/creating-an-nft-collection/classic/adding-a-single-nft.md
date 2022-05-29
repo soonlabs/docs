@@ -23,7 +23,7 @@ You want to fill out all of the fields and upload your NFT file:
 
 Once you've filled everything out, you can click the "Create NFT" button, sign the MetaMask transaction, and your NFT will now show up in your collection:
 
-![](<../../../.gitbook/assets/image (22) (1).png>)
+![](<../../../.gitbook/assets/image (22) (1) (1).png>)
 
 You can repeat the process above until you've created all your NFTs. After you've created all your NFTs, all you need to do is click the "Publish Collection" button:
 

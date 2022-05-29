@@ -2,7 +2,7 @@
 
 The distribution of the fixed 100,000,000 SOON supply is as follows:
 
-![](<../.gitbook/assets/image (25).png>)
+![](<../.gitbook/assets/image (22).png>)
 
 _**Launchpad**_: Fairly distribute tokens to the public. All these funds will be used to continue the growth of the Soonaverse.
 

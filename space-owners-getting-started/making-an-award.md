@@ -18,7 +18,7 @@ Fill in all the fields, click the "Mint Avatar" button to create your badge, and
 
 After that you (or another Guardian) will click the "Approve" button:
 
-![](<../.gitbook/assets/image (22) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (22) (1) (1) (1) (1).png>)
 
 And just like that, someone can now participate in your award!
 

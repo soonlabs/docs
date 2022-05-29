@@ -28,7 +28,7 @@ _Special notes:_
    * _For example, for April 10th, 2022 at 5:30am UTC, you'd use:_ 2022-04-10T05:30:00Z
 4. Do not change any column header names in the spreadsheet. They need to be as provided in the CSV example you exported.
 
-![](<../../.gitbook/assets/image (22).png>)
+![](<../../.gitbook/assets/image (22) (1).png>)
 
 After you've added all your information, save the CSV to your computer, and upload it:
 
