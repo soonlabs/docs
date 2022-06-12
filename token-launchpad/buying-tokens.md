@@ -2,9 +2,11 @@
 
 Buying tokens from a Token Launchpad public sale is just as smooth as buying NFTs. Tokens are listed for an exact price and the user can choose to purchase them or not.
 
-A unique feature of this token sale mechanism is that once the buy button is pressed and the IOTAs are sent, it’s not the end of the story. After the sale ends, there’s a 24 hour cooldown period where participants can request a partial or total refund. This could be due to a mistake while sending the IOTAs or any other reason. If a refund is not requested during the cooldown period then the token sale becomes finalized and ownership is transferred to the participant's profile.
+A unique feature of this token sale mechanism (that can be optionally turned on) is that once the buy button is pressed and the IOTAs are sent, it’s not the end of the story. After the sale ends, there can be a 24 hour cooldown period where participants can request a partial or total refund. This could be due to a mistake while sending the IOTAs or any other reason. If a refund is not requested during the cooldown period then the token sale becomes finalized and ownership is transferred to the participant's profile.
 
 If the amount of IOTAs raised is over the total raise target then the participants will receive tokens proportional to the amount of IOTAs they contributed to the pool. The difference between the amount of IOTAs contributed and the cost of the tokens received will be automatically refunded to the validated IOTA address on the participant's profile. **This means that it's impossible for a small group of people to buy up all the tokens. Every participant that contributes IOTAs during the token sale will receive an allocation of tokens.**
+
+_**Be sure to double check whether the token sale you're participating in is using the above described method or the first come first serve method.**_
 
 __
 
