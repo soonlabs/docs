@@ -30,8 +30,4 @@ If you don't know your MetaMask address, then all you need to do is go to your S
 
 
 
-After a snapshot is completed and processed, the SOON tokens will be available to claim on your Soonaverse Profile:
-
-Xxx
-
-Once claimed, you can trade them on the Token Exchange or wait for them to be minted on Shimmer L1 once the network goes live. After that, your SOON tokens will be freely transferable and completely in your control!
+After a snapshot is completed and processed, the SOON tokens will be available to claim on your Soonaverse Profile. Once claimed, you can trade them on the Token Exchange.
