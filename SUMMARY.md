@@ -70,6 +70,7 @@
 
 * [Token Distribution](tokenomics/token-distribution.md)
 * [Token Utility](tokenomics/token-utility.md)
+* [NF3 SOON Token Airdrops](tokenomics/nf3-soon-token-airdrops.md)
 
 ## 💫 Social Media
 

@@ -50,19 +50,25 @@ _Here are two sample example token sales to better visualize how the system work
 
 10\) After you've sent the payment, you'll see that your MIOTA deposit and Potential Tokens will automatically populate on the screen. You can continue to send MIOTAs to the same address if you wish to buy more and the "My purchased tokens" section will once again repopulate with updated numbers. You can also click the "Buy Tokens" button again and follow the same process. The amounts will just stack on top of each other.
 
-_\*It says "Potential Tokens" because as described at the beginning on this page, if the token sale is oversubscribed (more people trying to purchase than the project is trying to raise) then every participant will only receive their proportion of tokens relative to the amount of MIOTAs they contributed to the pool. The remaining IOTAs be then be refunded after the sale is finalized._
+_\*It says "Potential Tokens" because as described at the beginning on this page, if the token sale is not a first come first serve sale and is oversubscribed (more people trying to purchase than the project is trying to raise) then every participant will only receive their proportion of tokens relative to the amount of MIOTAs they contributed to the pool. The remaining IOTAs be then be refunded after the sale is finalized._
 
 ![](<../.gitbook/assets/image (35).png>)
 
 11\) Once the token sale has ended, there will be a 24 hour cooldown period where participants can request a partial or total refund. This could be due to a mistake while sending or any other reason. To get a refund, you need to click the "Refund" button:
 
-![](<../.gitbook/assets/image (1).png>)
+_(This is not applicable to first come first serve token sales)_
+
+![](<../.gitbook/assets/image (1) (1).png>)
 
 12\) A window will pop up and you can enter the amount of refund you'd like in MIOTA, check both boxes, and then click "Confirm and refund". The MIOTAs will be sent to the IOTA address that's validated on your profile:
+
+_(This is not applicable to first come first serve token sales)_
 
 ![](<../.gitbook/assets/image (11).png>)
 
 13\) Once the cooldown period ends, the sale is finalized! You can now go into your profile and view your tokens:
+
+_(This is not applicable to first come first serve token sales)_
 
 ![](<../.gitbook/assets/image (3).png>)
 
