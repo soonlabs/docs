@@ -31,3 +31,5 @@ If you don't know your MetaMask address, then all you need to do is go to your S
 
 
 After a snapshot is completed and processed, the SOON tokens will be available to claim on your Soonaverse Profile. Once claimed, you can trade them on the Token Exchange.
+
+If you don't want to pay the 1 MIOTA fee to claim your SOON tokens then you can wait until they are minted on the Shimmer network. After that the claiming process will have storage deposits ([https://wiki.iota.org/introduction/develop/explanations/what\_is\_stardust/storage\_deposit](https://wiki.iota.org/introduction/develop/explanations/what\_is\_stardust/storage\_deposit)) integrated and you will get that small fee refunded.
