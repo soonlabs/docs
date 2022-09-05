@@ -15,6 +15,7 @@ The past snapshot dates and airdrop amounts are as follows:
 3. April 15, 2022 - 1,500,000 SOON tokens
 4. May 12th, 2022 - 1,000,000 SOON tokens
 5. August 19th, 2022 - 500,000 SOON tokens
+6. August 31st, 2022 - 1,000,000 SOON tokens
 
 If you want to see your airdrop amounts, then you can enter your MetaMask address into this spreadsheet: [https://docs.google.com/spreadsheets/d/1p\_UMC8Fmw78bMK8cRqrXkXe-59nHQK8fSoJwLypRun4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1p\_UMC8Fmw78bMK8cRqrXkXe-59nHQK8fSoJwLypRun4/edit?usp=sharing)
 
