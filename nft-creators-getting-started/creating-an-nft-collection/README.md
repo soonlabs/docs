@@ -34,9 +34,9 @@ The first step to creating an NFT collection on the Soonaverse is to create a pr
 
 ![](<../../.gitbook/assets/image (16) (1).png>)
 
-Once you have your space created, you can verify the IOTA Wallet for your space (follow these instructions, except instead of your profile, click the "Verify wallet" button in your space): [Verifying your IOTA Wallet](../../all-users-getting-started/verifying-your-iota-wallet.md)
+Once you have your space created, you can verify the IOTA Wallet for your space (follow these instructions, except instead of your profile, click the "Verify wallet" button in your space): [Verifying your Wallet](../../all-users-getting-started/verifying-your-wallets.md)s
 
-After you've verified your IOTA wallet, you'll need to participate in the "Create a Collection Badge" award in the SoonLabs space (this is our current solution for spam protection until the SOON token is launched): [https://soonaverse.com/award/0x3ccb9fe9d6f429981522fb1927a2259149a4a192/overview](https://soonaverse.com/award/0x3ccb9fe9d6f429981522fb1927a2259149a4a192/overview)
+After you've verified your IOTA and Shimmer wallets, you'll need to participate in the "Create a Collection Badge" award in the SoonLabs space (this is our current solution for spam protection until the SOON token is launched): [https://soonaverse.com/award/0x3ccb9fe9d6f429981522fb1927a2259149a4a192/overview](https://soonaverse.com/award/0x3ccb9fe9d6f429981522fb1927a2259149a4a192/overview)
 
 ![](<../../.gitbook/assets/image (6) (1).png>)
 

@@ -4,7 +4,7 @@ Participating in awards is a cornerstone of being a great community member for s
 
 First, you'll want to find your way to a space you're a part of that has an active award (usually teams will post about these awards on other social media like Discord and Twitter so you don't miss it). Click anywhere on the active award to go into it:
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (2).png>)
 
 You can see from the Award Description that if I want this badge and XP, then all I need to do is give the SoonLab's team my opinion on what I believe their #1 priority should be over the next month. I believe I can accomplish this, so I'll click the "Participate" button:
 

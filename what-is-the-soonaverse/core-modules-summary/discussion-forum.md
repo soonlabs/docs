@@ -10,7 +10,7 @@ Not familiar with DAOs? Check out one of our recent articles:
 
 ![](<../../.gitbook/assets/image (12).png>)
 
-We allow anybody in the world to spin up a space for free on the Soonaverse.
+We allow anybody in the world to spin up a space on the Soonaverse.
 
 Members can join a space, discuss topics, build and vote on proposals, and reward fellow members for tasks completed and their contributions to the group.
 

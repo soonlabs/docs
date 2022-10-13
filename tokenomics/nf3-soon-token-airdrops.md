@@ -16,18 +16,19 @@ The past snapshot dates and airdrop amounts are as follows:
 4. May 12th, 2022 - 1,000,000 SOON tokens
 5. August 19th, 2022 - 500,000 SOON tokens
 6. August 31st, 2022 - 1,000,000 SOON tokens
+7. September 21st, 2022 - 1,500,000 SOON tokens
 
 If you want to see your airdrop amounts, then you can enter your MetaMask address into this spreadsheet: [https://docs.google.com/spreadsheets/d/1p\_UMC8Fmw78bMK8cRqrXkXe-59nHQK8fSoJwLypRun4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1p\_UMC8Fmw78bMK8cRqrXkXe-59nHQK8fSoJwLypRun4/edit?usp=sharing)
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (6).png>)
 
 If you don't know your MetaMask address, then all you need to do is go to your Soonaverse profile, and pull it from the URL:
 
 
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 
 

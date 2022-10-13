@@ -78,5 +78,5 @@ Click the "Sign" button:
 
 ****
 
-_What comes next? Well you'll probably want to_ [_verify your IOTA wallet_](../verifying-your-iota-wallet.md) _if you're looking to trade some NFTs..._
+_What comes next? Well you'll probably want to_ [_verify your wallet_](../verifying-your-wallets.md) _if you're looking to trade some tokens or NFTs..._
 

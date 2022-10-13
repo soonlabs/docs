@@ -24,7 +24,6 @@ Not only can you choose between letting either Guardians or Members vote, but yo
 
 * **Member - One Vote:** Each member of the space gets one vote.
 * **XP Reputation - Space:** Votes are weighted based on total amount of XP a member has in the space.
-* **XP Reputation - Space + Connection:** Votes are weighted based on total amount of XP a member has in the space & connections (See ["Alliances and the Interoperability of DAOs"](https://soonlabs.medium.com/alliances-and-the-interoperability-of-daos-73c7c010b037) article for more info on Connections).
 * **XP Reputation - Selected Badges:** Votes are weighted based on total amount of XP a member has for selected badges.
 
 After you've reviewed everything, pressed the "Create Proposal" button, and signed the transaction in your MetaMask, you'll see the final review screen.
@@ -36,4 +35,3 @@ Here is where a Guardian can review and then either "Approve" or "Decline" the p
 The proposal is approved and now it's just waiting to get started. As you can see, voting will start in 3 minutes:
 
 ![](<../.gitbook/assets/image (19) (1) (1) (1) (1).png>)
-

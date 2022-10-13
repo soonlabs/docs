@@ -7,3 +7,5 @@ Badges are earned through Awards.
 Badges can be bundled with Experience Tokens (XP) and convey a member's skill, competency, and commitment which helps establish reputation within the DAO/Soonaverse.
 
 Individual DAOs have the autonomy to create their own badges inside their communities as well as accepting badges from other DAOs.
+
+In the near future this will be an NFT on the Shimmer network that's locked for a very long period.

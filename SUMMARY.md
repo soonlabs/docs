@@ -4,15 +4,13 @@
   * [Core Modules Summary](what-is-the-soonaverse/core-modules-summary/README.md)
     * [Space Creation](what-is-the-soonaverse/core-modules-summary/discussion-forum.md)
     * [Reputation Station](what-is-the-soonaverse/service-protocols-summary/reputation-station.md)
-    * [Discussion Forum](<what-is-the-soonaverse/core-modules-summary/discussion-forum (1).md>)
     * [Feeless On-Chain Voting](what-is-the-soonaverse/core-modules-summary/secure-feeless-voting-sfv.md)
     * [DAO Token Deployment](what-is-the-soonaverse/core-modules-summary/dao-token-deployment.md)
-    * [Treasury Management](what-is-the-soonaverse/core-modules-summary/treasury-management.md)
     * [NFT Marketplace](what-is-the-soonaverse/core-modules-summary/nft-marketplace.md)
   * [Service Protocols Summary](what-is-the-soonaverse/service-protocols-summary/README.md)
     * [Token Launchpad](what-is-the-soonaverse/service-protocols-summary/token-launchpad.md)
-    * [Avatar Builder](what-is-the-soonaverse/service-protocols-summary/avatar-builder.md)
-* [Soonaverse DAO](soonaverse-dao.md)
+    * [L1 Token Exchange](what-is-the-soonaverse/service-protocols-summary/l1-token-exchange.md)
+    * [Iotabee DEX](what-is-the-soonaverse/service-protocols-summary/iotabee-dex.md)
 
 ## ✏ The Basics
 
@@ -35,10 +33,11 @@
 * [Setting Up Your Profile](all-users-getting-started/setting-up-your-profile/README.md)
   * [Profile - Desktop](all-users-getting-started/setting-up-your-profile/profile-desktop.md)
   * [Profile - Mobile](all-users-getting-started/setting-up-your-profile/profile-mobile.md)
-* [Verifying your IOTA Wallet](all-users-getting-started/verifying-your-iota-wallet.md)
+* [Verifying your Wallets](all-users-getting-started/verifying-your-wallets.md)
 * [Voting in a Proposal](all-users-getting-started/voting-in-a-proposal.md)
 * [Participating in an Award](all-users-getting-started/participating-in-an-award.md)
-* [Buying an NFT](all-users-getting-started/buying-an-nft.md)
+* [Buying an NFT](all-users-getting-started/buying-an-nft/README.md)
+  * [FAQs](all-users-getting-started/buying-an-nft/faqs.md)
 
 ## 🏛 Space Owners - Getting Started
 
@@ -60,16 +59,25 @@
     * [Adding Multiple NFTs](nft-creators-getting-started/creating-an-nft-collection/classic/adding-multiple-nfts.md)
   * [Generated](nft-creators-getting-started/creating-an-nft-collection/generated.md)
   * [SFT](nft-creators-getting-started/creating-an-nft-collection/sft.md)
+* [Minting NFTs on Shimmer](nft-creators-getting-started/minting-nfts-on-shimmer/README.md)
+  * [FAQs](nft-creators-getting-started/minting-nfts-on-shimmer/faqs.md)
 
-## 🚀 Token Launchpad
+## 🚀 Service Modules
 
-* [Creating a Token](token-launchpad/creating-a-token.md)
-* [Buying Tokens](token-launchpad/buying-tokens.md)
+* [Token Launchpad](service-modules/token-launchpad/README.md)
+  * [Creating a Token](service-modules/token-launchpad/creating-a-token.md)
+  * [Buying Tokens](service-modules/token-launchpad/buying-tokens.md)
+  * [Minting Tokens on Shimmer](service-modules/token-launchpad/minting-tokens-on-shimmer.md)
+  * [FAQs](service-modules/token-launchpad/faqs.md)
+* [L1 Token Exchange](service-modules/l1-token-exchange/README.md)
+  * [FAQs](service-modules/l1-token-exchange/faqs.md)
+* [Iotabee](service-modules/iotabee.md)
 
 ## 🪙 Tokenomics
 
 * [Token Distribution](tokenomics/token-distribution.md)
 * [Token Utility](tokenomics/token-utility.md)
+* [Buying $SOON](tokenomics/buying-usdsoon.md)
 * [NF3 SOON Token Airdrops](tokenomics/nf3-soon-token-airdrops.md)
 
 ## 💫 Social Media

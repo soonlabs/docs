@@ -2,30 +2,14 @@
 
 ## Overview
 
-The Soonaverse ([https://soonaverse.com/](https://soonaverse.com/)) is a decentralized platform for communities, enabling the seamless creation, management, and interoperability of DAOs.
+The Soonaverse ([https://soonaverse.com/home/](https://soonaverse.com/home/)) is a platform for communities to create and manage decentralized autonomous organizations (DAOs), NFTs, projects, companies, and markets, on the feeless infrastructure of the Shimmer network. Any organization can launch and trade liquid assets through the Marketplace, Launchpad, and Token Exchange products.
 
-![](<.gitbook/assets/image (1) (1) (1) (1) (1) (1).png>)
+<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-DAO-on-Demand (DoD) enables the “one-click” setup of DAOs and provides components that simplify complex DAO operations through an integrated set of feeless core modules. This includes the Feeless On-Chain Voting module, the first feeless, on-chain voting system in the industry. The Soonaverse also includes 2 innovative and feature-enhancing service modules; the Token LaunchPad and the Avatar Builder.
+A flourishing crypto ecosystem is built on top of reliable infrastructure. The Soonaverse provides an intuitive platform that allows anybody in the world to easily manage their communities and the digital assets they create. Those digital assets then become fully liquid through various marketplaces seamlessly woven into one simple user experience.
 
-![](<.gitbook/assets/image (18) (1) (1).png>)
+The Soonaverse is a hybrid of feeless core modules and fee-based service modules. The feeless core modules are based on the IOTA and Shimmer L1 protocols and create a strong foundation for the entire platform. These can be accessed through the staking of the SOON token. Service modules are then stacked on top to provide additional experiences and increase the developer community.
 
-The above diagram depicts the DoD’s 7 feeless core modules and the 2 service modules that comprise the entire Soonaverse platform:
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-These DoD core modules include:
-
-* **Space Creation** - The ability to create an interactive community hub where members who are interested in working toward a common goal can get together and organize themselves.
-* **Reputation Station** - An awards module that allows a member to enshrine their contributions and achievements into a quantifiable “reputation".
-* **Discussion Forum** - A platform that facilitates lively communication for the members of a space.
-* **Feeless On-Chain Voting** - Proposals and voting without the onerous fee structures imposed by other solutions.
-* **DAO Token Deployment** - Streamlined minting of DAO tokens for DAO’s of all sizes and complexities.
-* **Treasury Management** - Control and definition of monetary semantics for the DAO with predefined templates that minimize complexity.
-* **NFT Marketplace** - An engine that allows anybody to feelessly mint, sell, buy, and trade NFTs on the IOTA network.
-
-The Soonaverse Token Launchpad and Avatar Builder service modules further extend the capabilities of DAOs operating within the platform.
-
-The Token Launchpad allows DAOs to generate initial capital and liquidity by minting and exchanging tokens seamlessly using a mix of in-house solutions and partner integrations.
-
-The Avatar Builder adds a gamified experience to the entire platform, turning the normally tedious task of organizing and rewarding people into a more meta adventure: _Trying to level up in your career and the digital world and bringing your Avatar with you everywhere you go!_
-
-This all-in-one decentralized approach offers an unrivaled level of performance and empowerment, built on the feeless infrastructure of the IOTA network.
+This all-in-one approach offers an unrivaled level of performance and empowerment, built on the feeless infrastructure of the IOTA and Shimmer networks.

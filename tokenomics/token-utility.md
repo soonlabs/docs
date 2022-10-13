@@ -2,7 +2,7 @@
 
 To utilize any of the feeless core modules, all one needs to do is stake and lock a certain amount of SOON tokens:
 
-![](https://miro.medium.com/max/1400/0\*lZHWYEyA7jLLqTnC)
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 This unique staking support mechanism is to prevent malicious actors from exploiting the feeless nature of the modules and spamming the network. Stakers have a minimum lock up period of one month, but have the option to increase that locking period linearly up to 12 months, and by doing so can increase their allocation of staking rewards up to 2x.
 
@@ -25,6 +25,4 @@ SOON token holders will also have governance rights and the opportunity to vote 
 
 The SOON token has many features and truly connects the token holders with the Soonaverse.
 
-As a native IOTA DAO on Demand solution, we will leverage the feeless capabilities of the IOTA protocol and eliminate transactional fees for DAO creation, voting, and governance. The goal is to immediately differentiate ourselves in the market and drive high volume utilization of DAO creation to quickly propagate the network.
-
-Our intention is to drive communities to our default suite of higher margin service modules such as the Launchpad and other soon-to-be announced products. The likelihood of enabling and profiting from the next “unicorn” is orders of magnitude higher in this vibrant marketplace model.
+Our intention is to drive communities to our default suite of higher margin service modules such as the Token Launchpad and various DeFi products. The likelihood of enabling and profiting from the next “unicorn” is orders of magnitude higher in this vibrant marketplace model.

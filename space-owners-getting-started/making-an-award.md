@@ -2,7 +2,7 @@
 
 An award is simply a combination of Experience Tokens (XP) with a Badge that is tied to the completion of a specific task, bounty, action etc.
 
-Badges are rewarded to a contributor upon fulfillment of the assignment. Various smart contract templates will be provided in the future for communities to utilize.
+Badges can be rewarded to a contributor upon fulfillment of the assignment.
 
 To make an award for your space, go to the "Awards" tab inside your space:
 
