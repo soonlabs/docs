@@ -10,7 +10,7 @@
 
 4\) If you plan on selling your tokens to the public via the Token Launchpad, then you will need to fill out the form by clicking the "Begin Process" button (if not then just click "Continue"):
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 5\) On the "Metrics" page you fill out all information related to your token, including:
 

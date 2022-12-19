@@ -1,4 +1,4 @@
-# Adding the IOTA EVM Network - Mobile
+# Adding the Shimmer EVM Network - Mobile
 
 _Your MetaMask will default to the "Ethereum Main Network" network, so we need to get that changed. To do this, you'll need to follow these steps:_
 
@@ -24,22 +24,18 @@ Click the "Add Network" button:
 
 Fill out all of the prompts using the following values...
 
-_**Network Name: IOTA EVM Testnet**_
+_**Network Name: SMR EVM Testnet**_
 
-_**New RPC URL: https://evm.wasp.sc.iota.org**_
+_**New RPC URL:**_ [_**https://evm.wasp.sc.iota.org**_](https://api.sc.testnet.shimmer.network/evm/jsonrpc)_****_
 
-_**Chain ID: 1074**_
+_**Chain ID: 1076**_
 
-_**Currency Symbol: IOTA**_
+_**Currency Symbol: SMR**_
 
-_**Block Explorer URL: https://explorer.wasp.sc.iota.org**_
+_**Block Explorer URL:**_ [_**https://explorer.wasp.sc.iota.org**_](https://explorer.shimmer.network/shimmer)_****_
 
 
 
-After you've filled in all the prompts, click "Add":
+After you've filled in all the prompts, click "Add".
 
-![](<../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png>)
-
-And just like that you've added the IOTA EVM Testnet network to your MetaMask! (Check out how it now says "IOTA EVM Testnet" at the top):
-
-![](<../../../.gitbook/assets/image (5) (1).png>)
+And just like that you've added the Shimmer EVM Testnet network to your MetaMask! (Check out how it now says "SMR EVM Testnet" at the top):

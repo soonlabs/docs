@@ -77,4 +77,4 @@ Well now... If we look in the upper right hand corner there we can see it says "
 
 __
 
-_Our next step is to change to Ethereum Mainnet over to the IOTA EVM Testnet! Click the right button at the bottom of this page to go over to_ [_the tutorial that will show you how to add the IOTA EVM Testnet in MetaMask._](adding-the-iota-evm-network-desktop.md)__
+_Our next step is to change to Ethereum Mainnet over to the Shimmer EVM Testnet! Click the right button at the bottom of this page to go over to_ [_the tutorial that will show you how to add the Shimmer EVM Testnet in MetaMask._](adding-the-shimmer-evm-network-desktop.md)__

@@ -50,5 +50,5 @@ You'll notice that after you click the "Done" button, it takes you to your walle
 
 __
 
-_Our next step is to change to "Ethereum Main Network" over to the IOTA EVM Testnet! Click the right button at the bottom of this page to go over to_ [_the tutorial that will show you how to add the IOTA EVM Testnet in MetaMask._](metamask-mobile/adding-the-iota-evm-network-mobile.md)__
+_Our next step is to change to "Ethereum Main Network" over to the Shimmer EVM Testnet! Click the right button at the bottom of this page to go over to_ [_the tutorial that will show you how to add the Shimmer EVM Testnet in MetaMask._](metamask-mobile/adding-the-shimmer-evm-network-mobile.md)__
 
