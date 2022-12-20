@@ -26,13 +26,13 @@ Fill out all of the prompts using the following values...
 
 _**Network Name: SMR EVM Testnet**_
 
-_**New RPC URL:**_ [_**https://evm.wasp.sc.iota.org**_](https://api.sc.testnet.shimmer.network/evm/jsonrpc)_****_
+_**New RPC URL:**_ [_**https://api.sc.testnet.shimmer.network/evm/jsonrpc**_](https://api.sc.testnet.shimmer.network/evm/jsonrpc)_****_
 
 _**Chain ID: 1076**_
 
 _**Currency Symbol: SMR**_
 
-_**Block Explorer URL:**_ [_**https://explorer.wasp.sc.iota.org**_](https://explorer.shimmer.network/shimmer)_****_
+_**Block Explorer URL:**_ [_**https://explorer.shimmer.network/shimmer**_](https://explorer.shimmer.network/shimmer)_****_
 
 
 
