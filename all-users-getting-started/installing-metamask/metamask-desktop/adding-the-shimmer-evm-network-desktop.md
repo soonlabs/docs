@@ -22,7 +22,7 @@ _**Block Explorer URL:**_ [_**https://explorer.shimmer.network/shimmer**_](https
 
 After you've filled in all the prompts, click "Save":
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 And just like that you've added the Shimmer EVM Testnet network to your MetaMask!
 

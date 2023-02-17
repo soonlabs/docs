@@ -34,7 +34,7 @@ _Special notes:_
 
 After you've added all your information, save the CSV to your computer, and upload it:
 
-![](<../../.gitbook/assets/image (4) (2).png>)
+![](<../../.gitbook/assets/image (4) (2) (1).png>)
 
 For the next step we recommend you click the eye icon next to a few of your NFTs to spot check how the upload went. Check the image, properties, stats, etc.
 

@@ -8,30 +8,31 @@ Voting can be configured by the author(s) to limit or control who can participat
 
 To create the proposal for your space, simply go to the Proposals tab:
 
-![](<../.gitbook/assets/image (29) (1) (1) (1) (1).png>)
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 And choose "+ New proposal":
 
-![](<../.gitbook/assets/image (13) (1) (1).png>)
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 You'll see a lot of prompts that you can fill out. Here's an example of a completed proposal form ready to be created:
 
-![](<../.gitbook/assets/image (21) (1).png>)
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 _A few things to take note of on the image above:_
 
-Not only can you choose between letting either Guardians or Members vote, but you have the following voting types on Proposals:
+There are three different types of voting:
 
-* **Member - One Vote:** Each member of the space gets one vote.
-* **XP Reputation - Space:** Votes are weighted based on total amount of XP a member has in the space.
-* **XP Reputation - Selected Badges:** Votes are weighted based on total amount of XP a member has for selected badges.
+* **All Guardians :** Only guardians of the space can vote
+* **All Members :** All members of the space can vote
+* **Space's Native Token :** All token holders can vote
+  * _Both staked and unstaked tokens are eligible to vote when this option is selected. This token system works by tracking the wallet the user votes with and the voting weight is a function of both amount of tokens and time they were being used to vote. As an example, if the vote runs from Monday to Friday, and a user votes on Monday, if they don't spend any tokens until the vote ends on Friday, their vote will receive full weight. If they spend something halfway through the vote then they can always revote immediately after. This is similar to how SMR and ASMB staking was designed._
 
 After you've reviewed everything, pressed the "Create Proposal" button, and signed the transaction in your MetaMask, you'll see the final review screen.
 
 Here is where a Guardian can review and then either "Approve" or "Decline" the proposal to go to a vote. In this case one of the Guardian's will click "Approve" and then sign the transaction in MetaMask:
 
-![](<../.gitbook/assets/image (27) (1) (1) (1) (1) (1).png>)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-The proposal is approved and now it's just waiting to get started. As you can see, voting will start in 3 minutes:
+The proposal is approved and now it's just waiting to get started. As you can see, voting will start in 3 days:
 
-![](<../.gitbook/assets/image (19) (1) (1) (1) (1).png>)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

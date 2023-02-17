@@ -40,7 +40,7 @@ For the next step we recommend you click the eye icon next to a few of your NFTs
 
 Once you're comfortable with what's been uploaded, you can click the "Publish NFTs" button and sign the MetaMask transaction:
 
-![](<../../../.gitbook/assets/image (7) (1).png>)
+![](<../../../.gitbook/assets/image (7) (1) (2).png>)
 
 After you've created all your NFTs, all you need to do is click the "Publish Collection" button (**Check out how each NFT is fully visible and has it's own "Buy now" button**):
 

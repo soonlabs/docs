@@ -10,7 +10,7 @@ The more metadata in the transaction, the bigger the storage deposit. Properties
 
 To mint your NFT collection on the Shimmer network, simply click the "Mint Collection" button:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 After that, a pop up will appear and you'll choose the following options:
 

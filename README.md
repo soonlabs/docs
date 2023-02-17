@@ -10,6 +10,6 @@ A flourishing crypto ecosystem is built on top of reliable infrastructure. The S
 
 The Soonaverse is a hybrid of feeless core modules and fee-based service modules. The feeless core modules are based on the IOTA and Shimmer L1 protocols and create a strong foundation for the entire platform. These can be accessed through the staking of the SOON token. Service modules are then stacked on top to provide additional experiences and increase the developer community.
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8) (3).png" alt=""><figcaption></figcaption></figure>
 
 This all-in-one approach offers an unrivaled level of performance and empowerment, built on the feeless infrastructure of the IOTA and Shimmer networks.

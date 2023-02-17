@@ -25,7 +25,7 @@
 
 Here's a sample of a completed metrics page (_**Please note: The "Public sale" checkbox is checked for the Launchpad allocation because we're going to sell those tokens via the Token Launchpad**_):
 
-![](<../../.gitbook/assets/image (6) (2).png>)
+![](<../../.gitbook/assets/image (6) (2) (1).png>)
 
 6\) On the "Overview" page you can fill out the long and short descriptions, upload graphics, and provide users with useful links that relate to your project:
 

@@ -20,13 +20,13 @@ The past snapshot dates and airdrop amounts are as follows:
 
 If you want to see your airdrop amounts, then you can enter your MetaMask address into this spreadsheet: [https://docs.google.com/spreadsheets/d/1p\_UMC8Fmw78bMK8cRqrXkXe-59nHQK8fSoJwLypRun4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1p\_UMC8Fmw78bMK8cRqrXkXe-59nHQK8fSoJwLypRun4/edit?usp=sharing)
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (2).png>)
 
 If you don't know your MetaMask address, then all you need to do is go to your Soonaverse profile, and pull it from the URL:
 
 
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (4).png>)
 
 ![](<../.gitbook/assets/image (2) (1).png>)
 
