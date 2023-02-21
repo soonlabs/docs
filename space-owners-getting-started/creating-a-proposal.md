@@ -8,15 +8,15 @@ Voting can be configured by the author(s) to limit or control who can participat
 
 To create the proposal for your space, simply go to the Proposals tab:
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
 
 And choose "+ New proposal":
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (4).png" alt=""><figcaption></figcaption></figure>
 
 You'll see a lot of prompts that you can fill out. Here's an example of a completed proposal form ready to be created:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 _A few things to take note of on the image above:_
 
@@ -31,8 +31,8 @@ After you've reviewed everything, pressed the "Create Proposal" button, and sign
 
 Here is where a Guardian can review and then either "Approve" or "Decline" the proposal to go to a vote. In this case one of the Guardian's will click "Approve" and then sign the transaction in MetaMask:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The proposal is approved and now it's just waiting to get started. As you can see, voting will start in 3 days:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>

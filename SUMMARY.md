@@ -20,8 +20,6 @@
   * [Proposals](the-basics/basic-terminology/proposals.md)
   * [Awards](the-basics/basic-terminology/awards.md)
   * [Badges](the-basics/basic-terminology/badges.md)
-  * [Experience Tokens (XP)](the-basics/basic-terminology/experience-tokens-xp.md)
-  * [Reputation](the-basics/basic-terminology/reputation.md)
 
 ## 😃 All Users - Getting Started
 
@@ -45,7 +43,8 @@
 * [Setting Up Your Profile](space-owners-getting-started/setting-up-your-profile.md)
 * [Building a Space](space-owners-getting-started/building-a-space.md)
 * [Creating a Proposal](space-owners-getting-started/creating-a-proposal.md)
-* [Making an Award](space-owners-getting-started/making-an-award.md)
+* [Making an Award](space-owners-getting-started/making-an-award/README.md)
+  * [Airdropping Badges](space-owners-getting-started/making-an-award/airdropping-badges.md)
 
 ## 🎨 NFT Creators - Getting Started
 

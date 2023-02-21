@@ -10,11 +10,11 @@ The more metadata in the transaction, the bigger the storage deposit. Properties
 
 To mint your NFT collection on the Shimmer network, simply click the "Mint Collection" button:
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 After that, a pop up will appear and you'll choose the following options:
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 Sign with your MetaMask wallet. Then send the required amount of SMR for the storage deposit to the address listed in the following screen.
 

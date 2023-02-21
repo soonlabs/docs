@@ -2,7 +2,7 @@
 
 To utilize any of the feeless core modules, all one needs to do is stake and lock a certain amount of SOON tokens:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 This unique staking support mechanism is to prevent malicious actors from exploiting the feeless nature of the modules and spamming the network. Stakers have a minimum lock up period of one month, but have the option to increase that locking period linearly up to 12 months, and by doing so can increase their allocation of staking rewards up to 2x.
 
