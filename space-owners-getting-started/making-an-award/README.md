@@ -35,6 +35,8 @@ Click "Confirm" in Firefly and type in your password to send the tokens:
 
 <figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
+_The message "This transaction contains a surplus amount. Please double check this is the amount you want to send." is happening because the deeplink is, in the background, asking for additional SMR to be sent to cover the storage deposits for the individual badge NFTs (see Surplus glow amount)._
+
 Click "Finish Mint" in the Soonaverse:
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
