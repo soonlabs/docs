@@ -16,3 +16,7 @@
 **Error says I need to verify my address but I already have a verified address...**
 
 * Trading with SMR requires a Shimmer capable wallet like Shimmer Firefly or TanglePay that also must be verified like your IOTA wallet. Verify an SMR capable address and try again. More details on this process can be found here: [Verifying your Wallets](../../all-users-getting-started/verifying-your-wallets.md).
+
+**Are all tokens available to trade in the US and Canada?**
+
+* Only IOTA, SMR, and tokens that have submitted a valid legal opinion stating they are not a security are tradable in the US and Canada.
