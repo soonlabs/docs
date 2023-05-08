@@ -10,15 +10,17 @@ Click the dropdown button next to "Ethereum Mainnet" and click "Add Network":
 
 Fill out all of the prompts using the following values...
 
-_**Network Name: SMR EVM Testnet**_
+_**Network Name:**_** ShimmerEVM Testnet**
 
-_**New RPC URL:**_ [_**https://api.sc.testnet.shimmer.network/evm/jsonrpc**_](https://api.sc.testnet.shimmer.network/evm/jsonrpc)_****_
+**JSON-RPC Endpoint:** [**https://json-rpc.evm.testnet.shimmer.network/**](https://json-rpc.evm.testnet.shimmer.network/)
 
-_**Chain ID: 1076**_
+_**Chain ID: 1071**_
 
 _**Currency Symbol: SMR**_
 
-_**Block Explorer URL:**_ [_**https://explorer.shimmer.network/shimmer**_](https://explorer.shimmer.network/shimmer)_****_
+_**Block Explorer URL:**_ [_**https://explorer.evm.testnet.shimmer.network/**_](https://explorer.evm.testnet.shimmer.network/)
+
+
 
 After you've filled in all the prompts, click "Save":
 
