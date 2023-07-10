@@ -15,7 +15,8 @@ As you can see the setup for a space is pretty simple. You just need to do the f
 * Create a name for the space and give it a description (we support markdown, so you can add some cool formatting elements to it)
 * Decide whether your space will be open for anybody to join or if you will be manually approving each new member who tries to join your space
 * Upload an Avatar photo
-* Upload a Banner photo (‪2,350 x 1,080)
+* Upload a Banner photo
+  * _Note from the developers: "Banner is set to "object-fit: cover" meaning: The replaced content is sized to maintain its aspect ratio while filling the element's entire content box. If the object's aspect ratio does not match the aspect ratio of its box, then the object will be clipped to fit. I would target the widest browser window breakpoint (browsers width 1900px +) = ratio of the banner img 37:8. For smaller screens it will cut the sides of the image but it stays perfect for your targeted browser resolution. n3tsu is a good example, the main logo is centred so it doesn't matter if the banner is cropped"_
 * Fill in the Networking section with any relevant links
 
 After you complete those things you can click "Create space" and BAM! You have yourself a new space!
