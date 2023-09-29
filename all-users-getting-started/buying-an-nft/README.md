@@ -52,4 +52,3 @@ _This is a very important part:_ If you click the "View" button for the On-Chain
 
 **Welcome to the NFT revolution on the Soonaverse!**
 
-****

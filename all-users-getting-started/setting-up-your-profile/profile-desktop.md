@@ -24,11 +24,11 @@ Here's the fun part! Click the "Mint Avatar" button to mint your free avatar tha
 
 ![](<../../.gitbook/assets/image (3) (1) (1) (1) (1).png>)
 
-****
+
 
 **And just like that your a member of the Soonaverse with a complete profile!**
 
-****
+
 
 _What comes next? Well you'll probably want to_ [_verify your wallet_](../verifying-your-wallets.md) _if you're looking to trade some NFTs and tokens..._
 

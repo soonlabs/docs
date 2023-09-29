@@ -10,21 +10,19 @@ Click the dropdown button next to "Ethereum Mainnet" and click "Add Network":
 
 Fill out all of the prompts using the following values...
 
-_**Network Name:**_** ShimmerEVM Testnet**
+_**Network Name:**_** Shimmer EVM**
 
-**JSON-RPC Endpoint:** [**https://json-rpc.evm.testnet.shimmer.network/**](https://json-rpc.evm.testnet.shimmer.network/)
+**JSON-RPC Endpoint:** [**https://json-rpc.evm.shimmer.network**](https://json-rpc.evm.shimmer.network)
 
-_**Chain ID: 1071**_
+_**Chain ID: 148**_
 
 _**Currency Symbol: SMR**_
 
-_**Block Explorer URL:**_ [_**https://explorer.evm.testnet.shimmer.network/**_](https://explorer.evm.testnet.shimmer.network/)
+_**Block Explorer URL:**_ [_**https://explorer.evm.shimmer.network/**_](https://explorer.evm.shimmer.network/)
 
-
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 After you've filled in all the prompts, click "Save":
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
-
-And just like that you've added the Shimmer EVM Testnet network to your MetaMask!
+And just like that you've added the Shimmer EVM network to your MetaMask!
 

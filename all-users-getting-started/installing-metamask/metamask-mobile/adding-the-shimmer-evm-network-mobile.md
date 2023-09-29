@@ -24,18 +24,18 @@ Click the "Add Network" button:
 
 Fill out all of the prompts using the following values...
 
-_**Network Name:**_** ShimmerEVM Testnet**
+_**Network Name:**_** Shimmer EVM**
 
-**JSON-RPC Endpoint:** [**https://json-rpc.evm.testnet.shimmer.network/**](https://json-rpc.evm.testnet.shimmer.network/)
+**JSON-RPC Endpoint:** [**https://json-rpc.evm.shimmer.network**](https://json-rpc.evm.shimmer.network)
 
-_**Chain ID: 1071**_
+_**Chain ID: 148**_
 
 _**Currency Symbol: SMR**_
 
-_**Block Explorer URL:**_ [_**https://explorer.evm.testnet.shimmer.network/**_](https://explorer.evm.testnet.shimmer.network/)
+_**Block Explorer URL:**_ [_**https://explorer.evm.shimmer.network/**_](https://explorer.evm.shimmer.network/)
 
 
 
 After you've filled in all the prompts, click "Add".
 
-And just like that you've added the Shimmer EVM Testnet network to your MetaMask! (Check out how it now says "SMR EVM Testnet" at the top):
+And just like that you've added the Shimmer EVM network to your MetaMask! (Check out how it now says "Shimmer EVM" at the top):

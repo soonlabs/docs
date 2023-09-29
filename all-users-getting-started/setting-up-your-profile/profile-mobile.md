@@ -70,13 +70,13 @@ Click the "Sign" button:
 
 **And just like that your a member of the Soonaverse with a complete profile!**
 
-****
+
 
 ![](<../../.gitbook/assets/image (27) (1) (1) (1) (1) (1) (1) (1).png>)
 
-****
 
-****
+
+
 
 _What comes next? Well you'll probably want to_ [_verify your wallet_](../verifying-your-wallets.md) _if you're looking to trade some tokens or NFTs..._
 

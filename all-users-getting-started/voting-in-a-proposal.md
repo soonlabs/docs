@@ -8,7 +8,7 @@ Just navigate your way to space you're a member of that has an active proposal:
 
 _Please note that if you weren't a member of space before the vote started, you won't be able to participate._
 
-__
+
 
 Click anywhere on the active proposal to open it up. Choose which option you want to vote for and click the "Vote Now" button:
 

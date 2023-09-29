@@ -16,4 +16,4 @@ Input all the MetaMask addresses you want to get a badge and tokens:
 
 Upload the completed CSV and then click "Confirm and Give badges":
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

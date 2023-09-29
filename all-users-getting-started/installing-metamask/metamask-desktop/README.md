@@ -75,6 +75,6 @@ Well now... If we look in the upper right hand corner there we can see it says "
 
 ![](<../../../.gitbook/assets/image (21) (1) (1) (1) (1).png>)
 
-__
 
-_Our next step is to change to Ethereum Mainnet over to the Shimmer EVM Testnet! Click the right button at the bottom of this page to go over to_ [_the tutorial that will show you how to add the Shimmer EVM Testnet in MetaMask._](adding-the-shimmer-evm-network-desktop.md)__
+
+_Our next step is to change to Ethereum Mainnet over to the Shimmer EVM Testnet! Click the right button at the bottom of this page to go over to_ [_the tutorial that will show you how to add the Shimmer EVM Testnet in MetaMask._](adding-the-shimmer-evm-network-desktop.md)

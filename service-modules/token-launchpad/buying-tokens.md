@@ -8,7 +8,7 @@ If the amount of IOTAs raised is over the total raise target then the participan
 
 _**Be sure to double check whether the token sale you're participating in is using the above described method or the first come first serve method.**_
 
-__
+
 
 _Here are two sample example token sales to better visualize how the system works:_
 
