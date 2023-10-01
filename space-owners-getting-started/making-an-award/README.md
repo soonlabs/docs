@@ -6,7 +6,7 @@ Badges and tokens can be rewarded to a contributor upon fulfillment of an assign
 
 To make an award for your space, go to the "Awards" tab inside your space:
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (4).png" alt=""><figcaption></figcaption></figure>
 
 From there, click the "+ New award" button:
 
@@ -25,7 +25,7 @@ _Some quick things to note:_
 
 After that you (or another Guardian) will click the "Fund Award" button or the "Reject Award" button:
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
 
 If we click "Fund Award", we will be prompted to use deeplink and send the total amount of tokens outlined in the award to a unique address. Since I'm logged into Firefly, I'll click the Firefly button:
 
@@ -39,8 +39,8 @@ _The message "This transaction contains a surplus amount. Please double check th
 
 Click "Finish Mint" in the Soonaverse:
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
 
 And just like that, someone can now participate in your award!
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>

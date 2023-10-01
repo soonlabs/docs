@@ -72,12 +72,13 @@
   * [FAQs](service-modules/l1-token-exchange/faqs.md)
 * [Iotabee](service-modules/iotabee.md)
 
-## 🪙 Tokenomics
+## 🪙 Token
 
-* [Token Distribution](tokenomics/token-distribution.md)
-* [Token Utility](tokenomics/token-utility.md)
-* [Buying $SOON](tokenomics/buying-usdsoon.md)
-* [NF3 SOON Token Airdrops](tokenomics/nf3-soon-token-airdrops.md)
+* [Token Distribution](token/token-distribution.md)
+* [Token Utility](token/token-utility.md)
+* [Buying $SOON](token/buying-usdsoon.md)
+* [NF3 SOON Token Airdrops](token/nf3-soon-token-airdrops.md)
+* [Liquidity Mining](token/liquidity-mining.md)
 
 ## 💫 Social Media
 

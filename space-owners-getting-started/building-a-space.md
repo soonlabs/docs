@@ -8,7 +8,7 @@ The first thing you need to do is participate in any award on the Soonaverse. Yo
 
 The next thing you'll want to do is go to [https://soonaverse.com/discover/spaces](https://soonaverse.com/discover/spaces), click the "Create new" dropdown button, and then choose "Space":
 
-![](<../.gitbook/assets/image (8) (1).png>)
+![](<../.gitbook/assets/image (8) (1) (1).png>)
 
 As you can see the setup for a space is pretty simple. You just need to do the following:
 

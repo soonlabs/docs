@@ -42,7 +42,7 @@ _Here are two sample example token sales to better visualize how the system work
 
 8\) Enter how much you'd like to buy. You can enter the amount of MIOTA or SMR you'd like to spend or you can click the arrows button in the center and enter the amount of tokens you'd like to buy and it'll automatically calculate the amount of MIOTA or SMR you'll need to send. After you've done that you can either copy the IOTA or SMR address at the bottom or click your preferred wallet button:
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 9\) If you copied the address then you can open up your wallet and paste the address in the Send Payment screen and enter the amount of MIOTA or SMR you're supposed to send. If you click one of the deep link buttons then this will auto-populate in your wallet:
 

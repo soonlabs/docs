@@ -20,7 +20,7 @@ _**Currency Symbol: SMR**_
 
 _**Block Explorer URL:**_ [_**https://explorer.evm.shimmer.network/**_](https://explorer.evm.shimmer.network/)
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 After you've filled in all the prompts, click "Save":
 

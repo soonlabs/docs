@@ -4,7 +4,7 @@ After you create an award, you have the ability to quickly airdrop all or some o
 
 To do so, go into the award and click the "Give badges" button:
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 From there you'll download the CSV template:
 
@@ -16,4 +16,4 @@ Input all the MetaMask addresses you want to get a badge and tokens:
 
 Upload the completed CSV and then click "Confirm and Give badges":
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

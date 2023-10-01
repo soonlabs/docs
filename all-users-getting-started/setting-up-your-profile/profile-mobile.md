@@ -64,7 +64,7 @@ After you've done all that, make sure to click the "Save changes" button:
 
 Click the "Sign" button:
 
-![](<../../.gitbook/assets/image (8) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (8) (1) (1) (1) (2).png>)
 
 
 
