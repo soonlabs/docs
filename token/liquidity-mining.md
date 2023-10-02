@@ -38,7 +38,7 @@ If you go into your MetaMask wallet, you can see the 10 SMR:
 
 Now that you have SMR on the Shimmer EVM chain, you can now bridge your SOON tokens from the Shimmer L1 to the Shimmer EVM chain.
 
-To do this we'll be using the IOTAMPC bridge on Iotabee: [https://iotabee.com/bridge](https://test.iotabee.com/bridge)
+To do this we'll be using the IOTAMPC bridge on Iotabee: [https://iotabee.com/bridge](https://iotabee.com/bridge)
 
 Here's what the bridging transaction should look like:
 
@@ -57,7 +57,7 @@ Now you need to bridge over either wBTC or ETH from the Ethereum Mainnet (IOTA t
 
 For this tutorial I will be bridging over wBTC.
 
-Assuming you already own wBTC on the Ethereum Mainnet, all you need to do is visit the IOTAMPC bridge page again: [https://iotabee.com/bridge](https://test.iotabee.com/bridge)
+Assuming you already own wBTC on the Ethereum Mainnet, all you need to do is visit the IOTAMPC bridge page again: [https://iotabee.com/bridge](https://iotabee.com/bridge)
 
 The difference this time is that you'll need to change your MetaMask network from the Shimmer EVM to the Ethereum Mainnet:
 
@@ -76,7 +76,7 @@ You now have some wBTC tokens on the Shimmer EVM chain.
 
 ### Step 3: Create LP tokens
 
-Before staking, you must first add liquidity. Go to: [https://iotabee.com/farm](https://test.iotabee.com/farm), make sure your wallet's network is set to the Shimmer EVM, and scroll down until you find the pool that you'd like to provide liquidity for.
+Before staking, you must first add liquidity. Go to: [https://iotabee.com/farm](https://iotabee.com/farm), make sure your wallet's network is set to the Shimmer EVM, and scroll down until you find the pool that you'd like to provide liquidity for.
 
 Click the "Add liquidity" button:
 
